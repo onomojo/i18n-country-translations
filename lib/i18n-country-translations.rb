@@ -1,2 +1,1 @@
-module I18nCountryTranslations
-end
+require 'i18n_country_translations'
