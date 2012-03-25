@@ -1,0 +1,3 @@
+= I18nCountryTranslations
+
+This project rocks and uses MIT-LICENSE.
