@@ -10,6 +10,13 @@ Add to your Gemfile:
 
     gem 'i18n-country-translations'
 
+== Usage
+
+  I18n.t(:US, :scope => :countries)
+  
+or
+  
+  t(:US, :scope => :countries)
 
 
 You can easily start adding country translations to the locales with help from this script: https://gist.github.com/2128684
