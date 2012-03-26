@@ -8,7 +8,7 @@ If you're doing anything with country names and translations, there's no need to
 
 Add to your Gemfile:
 
-    gem 'i18n-country-translations', :git => 'git@github.com:onomojo/i18n-country-translations.git'
+    gem 'i18n-country-translations'
 
 
 
