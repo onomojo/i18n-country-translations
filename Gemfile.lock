@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    i18n-country-translations (0.0.2)
+    i18n-country-translations (0.0.3)
       i18n (~> 0.5)
       rails (>= 3.0.0)
 

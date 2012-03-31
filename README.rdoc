@@ -18,16 +18,18 @@ or
   
   t(:US, :scope => :countries)
 
+== Contributing
 
 You can easily start adding country translations to the locales with help from this script: https://gist.github.com/2128684
 It will generate a new yml file that contains the country translations for the locale specified. Take the contents of this file and move it into the correct locale file.
-So far only en-US.yml and es.yml have them added.
+So far only en, es, and jp have been added. Please help us add more.
 
-
+You can also use these standard translations to help if you don't want to use the script above: http://unicode.org/repos/cldr-tmp/trunk/diff/summary/root.html
 
 
 == Contributors
 Brian McQuay - http://www.onomojo.com
+Tsutomu Kuroda
 
 == License
 MIT or GPL
