@@ -4,6 +4,11 @@ I18n Country Translations - The purpose of this gem is to simply provide country
 
 If you're doing anything with country names and translations, there's no need to reinvent the wheel and add your own translations. Just use this gem's country translations and skip the hassle of having to add and manage each country translation for each locale.
 
+== Supported Locales
+There are translations for all of the following locales: de, en, es, fr, js, pt, zh
+
+Of those, we have only confirmed the translations for the following locales: en, es, jp
+
 == Installation
 
 Add to your Gemfile:
@@ -20,12 +25,15 @@ or
 
 == Contributing
 
-You can easily start adding country translations to the locales with help from this script: https://gist.github.com/2128684
-It will generate a new yml file that contains the country translations for the locale specified. Take the contents of this file and move it into the correct locale file.
-So far only en, es, and jp have been added. Please help us add more.
+You can easily start adding country translations to the locales with help of the following rake task:
+
+  IMPORT_LOCALE=en rake import:country_translation
+
+It will generate a new yml file that contains the country translations for the locale specified. Please note that some of the country translations may still be missing.
 
 You can also use these standard translations to help if you don't want to use the script above: http://unicode.org/repos/cldr-tmp/trunk/diff/summary/root.html
 
+If you find an error in a translation, please let us know.
 
 == Contributors
 Brian McQuay - http://www.onomojo.com

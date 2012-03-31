@@ -29,6 +29,6 @@ RSpec::Core::RakeTask.new(:rcov) do |spec|
   spec.rcov = true
 end
 
-#require 'i18n-spec/tasks' # needs to be loaded after rspec
+Dir.glob('lib/tasks/*.rake').each { |r| import r }
 
 task :default => :spec
