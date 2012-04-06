@@ -38,6 +38,7 @@ If you find an error in a translation, please let us know.
 == Contributors
 Brian McQuay - http://www.onomojo.com
 Tsutomu Kuroda
+Joost Hietbrink - http://blog.joopp.com
 
 == License
 MIT or GPL
