@@ -40,6 +40,10 @@ Brian McQuay - http://www.onomojo.com
 Tsutomu Kuroda
 Joost Hietbrink - http://blog.joopp.com
 
+== Related
+You may also be intersted in the i18n_country_select gem which basically gives you a helper to make use of these translations in a coutry select dropdown.
+https://github.com/onomojo/i18n_country_select
+
 == License
 MIT or GPL
 
