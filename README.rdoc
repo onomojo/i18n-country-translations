@@ -1,6 +1,6 @@
 = I18nCountryTranslations
 
-I18n Country Translations - The purpose of this gem is to simply provide country translations. The gem is intended to be easy to combine with other gems that require i18n country translations so we can have common i18n country translation gem.
+The purpose of this gem is to simply provide country translations. The gem is intended to be easy to combine with other gems that require i18n country translations so we can have common i18n country translation gem.
 
 If you're doing anything with country names and translations, there's no need to reinvent the wheel and add your own translations. Just use this gem's country translations and skip the hassle of having to add and manage each country translation for each locale.
 
