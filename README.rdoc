@@ -36,9 +36,10 @@ You can also use these standard translations to help if you don't want to use th
 
 == Contributors
 * Brian McQuay - http://www.onomojo.com
-* Tsutomu Kuroda
+* Tsutomu Kuroda - https://github.com/kuroda
 * Joost Hietbrink - http://blog.joopp.com
 * Janko Marohnić - https://github.com/janko-m
+* Cyril Mougel - https://github.com/shingara
 
 == Related
 You may also be intersted in the i18n_country_select gem which basically gives you a helper to make use of these translations in a coutry select dropdown.
