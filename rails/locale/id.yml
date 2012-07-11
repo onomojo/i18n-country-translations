@@ -181,7 +181,7 @@ id:
     NG: "Nigeria"
     NI: "Nikaragua"
     NL: "Belanda"
-    NO: "Norwegia"
+    'NO': "Norwegia"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

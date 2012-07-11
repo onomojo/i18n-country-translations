@@ -179,7 +179,7 @@ haw:
     NG: "NG"
     NI: "NI"
     NL: "Hōlani"
-    NO: "NO"
+    'NO': "NO"
     NP: "NP"
     NR: "NR"
     NU: "NU"

@@ -181,7 +181,7 @@ nmg:
     NG: "Nigeria"
     NI: "Nikaragua"
     NL: "Nedɛrland"
-    NO: "Nɔrvɛg"
+    'NO': "Nɔrvɛg"
     NP: "Nepal"
     NR: "Noru"
     NU: "Niuɛ"

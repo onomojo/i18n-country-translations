@@ -181,7 +181,7 @@ ak:
     NG: "Naegyeria"
     NI: "Nekaraguwa"
     NL: "Nɛdɛland"
-    NO: "Nɔɔwe"
+    'NO': "Nɔɔwe"
     NP: "Nɛpɔl"
     NR: "Naworu"
     NU: "Niyu"

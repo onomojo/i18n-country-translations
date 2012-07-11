@@ -181,7 +181,7 @@ ga:
     NG: "An Nigéir"
     NI: "Nicearagua"
     NL: "An Ísiltír"
-    NO: "An Iorua"
+    'NO': "An Iorua"
     NP: "Neipeal"
     NR: "Nárú"
     NU: "Nívé"

@@ -181,7 +181,7 @@ mua:
     NG: "Nigeriya"
     NI: "Nikaragwa"
     NL: "Sǝr ma kasǝŋ"
-    NO: "Norvegǝ"
+    'NO': "Norvegǝ"
     NP: "Sǝr Nepal"
     NR: "Sǝr Nauru"
     NU: "Niwe"

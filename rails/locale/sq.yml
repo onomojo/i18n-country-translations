@@ -180,7 +180,7 @@ sq:
     NG: "Nigeri"
     NI: "Nikaragua"
     NL: "Vendet e Ulëta"
-    NO: "Norvegji"
+    'NO': "Norvegji"
     NP: "NP"
     NR: "NR"
     NU: "NU"

@@ -182,7 +182,7 @@ fi:
     NG: "Nigeria"
     NI: "Nicaragua"
     NL: "Alankomaat"
-    NO: "Norja"
+    'NO': "Norja"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

@@ -182,7 +182,7 @@ da:
     NG: "Nigeria"
     NI: "Nicaragua"
     NL: "Holland"
-    NO: "Norge"
+    'NO': "Norge"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

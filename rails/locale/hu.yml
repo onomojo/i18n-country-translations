@@ -181,7 +181,7 @@ hu:
     NG: "Nigéria"
     NI: "Nicaragua"
     NL: "Hollandia"
-    NO: "Norvégia"
+    'NO': "Norvégia"
     NP: "Nepál"
     NR: "Nauru"
     NU: "Niue"

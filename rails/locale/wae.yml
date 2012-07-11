@@ -180,7 +180,7 @@ wae:
     NG: "Nigeriad"
     NI: "Nicaraguad"
     NL: "Holandd"
-    NO: "Norwäged"
+    'NO': "Norwäged"
     NP: "Nepald"
     NR: "Naurud"
     NU: "Niued"

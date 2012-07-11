@@ -181,7 +181,7 @@ kln:
     NG: "Emetab Nigeria"
     NI: "Emetab Nicaragua"
     NL: "Emetab Holand"
-    NO: "Emetab Norway"
+    'NO': "Emetab Norway"
     NP: "Emetab Nepal"
     NR: "Emetab Nauru"
     NU: "Emetab Niue"

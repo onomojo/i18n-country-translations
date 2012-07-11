@@ -181,7 +181,7 @@ mfe:
     NG: "Nizeria"
     NI: "Nicaragua"
     NL: "Oland"
-    NO: "Norvez"
+    'NO': "Norvez"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niowe"

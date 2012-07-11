@@ -151,7 +151,7 @@ it:
     NG: "Nigeria"
     NI: "Nicaragua"
     NL: "Paesi Bassi"
-    NO: "Norvegia"
+    'NO': "Norvegia"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

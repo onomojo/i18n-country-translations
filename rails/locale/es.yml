@@ -182,7 +182,7 @@ es:
     NG: "Nigeria"
     NI: "Nicaragua"
     NL: "Países Bajos"
-    NO: "Noruega"
+    'NO': "Noruega"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Isla Niue"

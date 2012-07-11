@@ -181,7 +181,7 @@ bs:
     NG: "Nigerija"
     NI: "Nikaragva"
     NL: "Holandija"
-    NO: "Norveška"
+    'NO': "Norveška"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

@@ -181,7 +181,7 @@ bas:
     NG: "Nìgerìà"
     NI: "Nìkàragwà"
     NL: "Ǹlɛndi"
-    NO: "Nɔ̀rvegìà"
+    'NO': "Nɔ̀rvegìà"
     NP: "Nèpâl"
     NR: "Nerù"
     NU: "Nìuɛ̀"

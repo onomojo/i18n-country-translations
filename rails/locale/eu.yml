@@ -181,7 +181,7 @@ eu:
     NG: "Nigeria"
     NI: "Nikaragua"
     NL: "Herbehereak"
-    NO: "Norvegia"
+    'NO': "Norvegia"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

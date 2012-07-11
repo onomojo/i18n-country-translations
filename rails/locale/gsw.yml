@@ -181,7 +181,7 @@ gsw:
     NG: "Nigeeria"
     NI: "Nicaraagua"
     NL: "Niderland"
-    NO: "Norweege"
+    'NO': "Norweege"
     NP: "Neepal"
     NR: "Nauru"
     NU: "Niue"

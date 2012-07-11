@@ -181,7 +181,7 @@ nn:
     NG: "Nigeria"
     NI: "Nicaragua"
     NL: "Nederland"
-    NO: "Noreg"
+    'NO': "Noreg"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

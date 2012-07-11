@@ -180,7 +180,7 @@ mgh:
     NG: "Unijeria"
     NI: "NI"
     NL: "NL"
-    NO: "Unorwe"
+    'NO': "Unorwe"
     NP: "NP"
     NR: "NR"
     NU: "NU"

@@ -180,7 +180,7 @@ ksh:
     NG: "Nikaraaguad"
     NI: "Nikaraaguwad"
     NL: "de Nederlängd"
-    NO: "Norrweejed"
+    'NO': "Norrweejed"
     NP: "Nepalld"
     NR: "Naurud"
     NU: "Niued"

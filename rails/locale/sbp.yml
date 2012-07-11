@@ -181,7 +181,7 @@ sbp:
     NG: "Nijeliya"
     NI: "Nikalagwa"
     NL: "Wuholansi"
-    NO: "Nolwe"
+    'NO': "Nolwe"
     NP: "Nepali"
     NR: "Nawulu"
     NU: "Niwue"

@@ -181,7 +181,7 @@ mt:
     NG: "Niġerja"
     NI: "Nikaragwa"
     NL: "Olanda"
-    NO: "Norveġja"
+    'NO': "Norveġja"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

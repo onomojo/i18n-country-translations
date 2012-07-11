@@ -181,7 +181,7 @@ eo:
     NG: "Niĝerio"
     NI: "Nikaragvo"
     NL: "Nederlando"
-    NO: "Norvegujo"
+    'NO': "Norvegujo"
     NP: "Nepalo"
     NR: "Nauro"
     NU: "Niuo"

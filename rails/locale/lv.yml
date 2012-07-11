@@ -181,7 +181,7 @@ lv:
     NG: "Nigērija"
     NI: "Nikaragva"
     NL: "Nīderlande"
-    NO: "Norvēģija"
+    'NO': "Norvēģija"
     NP: "Nepāla"
     NR: "Nauru"
     NU: "Niue"

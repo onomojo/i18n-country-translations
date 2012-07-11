@@ -180,7 +180,7 @@ ia:
     NG: "Nigeriad"
     NI: "Nicaraguad"
     NL: "Nederlandiad"
-    NO: "Norvegiad"
+    'NO': "Norvegiad"
     NP: "Nepald"
     NR: "NR"
     NU: "NU"

@@ -181,7 +181,7 @@ xog:
     NG: "Nayijerya"
     NI: "Nikaraguwa"
     NL: "Holandi"
-    NO: "Nowe"
+    'NO': "Nowe"
     NP: "Nepalo"
     NR: "Nawuru"
     NU: "Niyuwe"

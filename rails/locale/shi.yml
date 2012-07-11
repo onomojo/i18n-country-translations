@@ -181,7 +181,7 @@ shi:
     NG: "nijirya"
     NI: "nikaragwa"
     NL: "hulanda"
-    NO: "nnrwij"
+    'NO': "nnrwij"
     NP: "nibal"
     NR: "nawru"
     NU: "niwi"

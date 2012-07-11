@@ -181,7 +181,7 @@ so:
     NG: "Nayjeeriya"
     NI: "Nikaraaguwa"
     NL: "Netherlands"
-    NO: "Noorweey"
+    'NO': "Noorweey"
     NP: "Nebaal"
     NR: "Nauru"
     NU: "Niue"
