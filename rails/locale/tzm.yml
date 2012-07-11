@@ -181,7 +181,7 @@ tzm:
     NG: "Nijiria"
     NI: "Nikaragwa"
     NL: "Hulanḍa"
-    NO: "Nnurwij"
+    'NO': "Nnurwij"
     NP: "Nippal"
     NR: "Nawru"
     NU: "Niwi"

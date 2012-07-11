@@ -181,7 +181,7 @@ ha:
     NG: "Najeriya"
     NI: "Nikaraguwa"
     NL: "Holan"
-    NO: "Norwe"
+    'NO': "Norwe"
     NP: "Nefal"
     NR: "Nauru"
     NU: "Niyu"

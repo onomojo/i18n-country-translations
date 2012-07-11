@@ -180,7 +180,7 @@ cy:
     NG: "Nigeriad"
     NI: "Nicaragwad"
     NL: "Yr Iseldiroeddd"
-    NO: "Norwyd"
+    'NO': "Norwyd"
     NP: "Nepald"
     NR: "Nawrwd"
     NU: "Niued"

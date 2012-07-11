@@ -181,7 +181,7 @@ rn:
     NG: "Nijeriya"
     NI: "Nikaragwa"
     NL: "Ubuholandi"
-    NO: "Noruveji"
+    'NO': "Noruveji"
     NP: "Nepali"
     NR: "Nawuru"
     NU: "Niyuwe"

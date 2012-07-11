@@ -181,7 +181,7 @@ is:
     NG: "Nígería"
     NI: "Níkaragva"
     NL: "Niðurlönd"
-    NO: "Noregur"
+    'NO': "Noregur"
     NP: "Nepal"
     NR: "Nárú"
     NU: "Niue"

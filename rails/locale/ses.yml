@@ -181,7 +181,7 @@ ses:
     NG: "Naajiriia"
     NI: "Nikaragwa"
     NL: "Hollandu"
-    NO: "Norveej"
+    'NO': "Norveej"
     NP: "Neepal"
     NR: "Nauru"
     NU: "Niue"

@@ -152,7 +152,7 @@ nl:
     NG: "Nigeria"
     NI: "Nicaragua"
     NL: "Nederland"
-    NO: "Noorwegen"
+    'NO': "Noorwegen"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

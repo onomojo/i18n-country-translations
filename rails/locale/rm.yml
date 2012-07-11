@@ -183,7 +183,7 @@ rm:
     NG: "Nigeria; [draft=contributed]"
     NI: "Nicaragua; [draft=contributed]"
     NL: "Pajais Bass; [draft=contributed]"
-    NO: "Norvegia; [draft=contributed]"
+    'NO': "Norvegia; [draft=contributed]"
     NP: "Nepal; [draft=contributed]"
     NR: "Nauru; [draft=contributed]"
     NT: "Zona neutrala; [draft=contributed]"

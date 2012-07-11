@@ -179,7 +179,7 @@ se:
     NG: "Nigeriad"
     NI: "Nicaraguad"
     NL: "Vuolleeatnamatd"
-    NO: "Norgad"
+    'NO': "Norgad"
     NP: "Nepald"
     NR: "Naurud"
     NU: "Niued"

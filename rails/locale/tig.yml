@@ -181,7 +181,7 @@ tig:
     NG: "ናይጄሪያd"
     NI: "NI"
     NL: "ኔዘርላንድd"
-    NO: "ኖርዌd"
+    'NO': "ኖርዌd"
     NP: "ኔፓልd"
     NR: "NR"
     NU: "NU"

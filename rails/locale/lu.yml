@@ -181,7 +181,7 @@ lu:
     NG: "Nijerya"
     NI: "Nikaragwa"
     NL: "Olandɛ"
-    NO: "Noriveje"
+    'NO': "Noriveje"
     NP: "Nepálɛ"
     NR: "Nauru"
     NU: "Nyue"

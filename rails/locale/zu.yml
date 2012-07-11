@@ -180,7 +180,7 @@ zu:
     NG: "i-Nigeria"
     NI: "i-Nicaragua"
     NL: "i-Netherlands"
-    NO: "i-Norway"
+    'NO': "i-Norway"
     NP: "i-Nepal"
     NR: "i-Nauru"
     NU: "i-Niue"

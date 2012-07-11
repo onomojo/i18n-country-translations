@@ -181,7 +181,7 @@ kab:
     NG: "Nijirya"
     NI: "Nikaragwa"
     NL: "Timura-Yessakesren"
-    NO: "Nurvij"
+    'NO': "Nurvij"
     NP: "Nipal"
     NR: "Nuru"
     NU: "Niwi"

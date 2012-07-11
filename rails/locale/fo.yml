@@ -180,7 +180,7 @@ fo:
     NG: "Nigeriad"
     NI: "Nikaragua"
     NL: "Niðurlond"
-    NO: "Noreg"
+    'NO': "Noreg"
     NP: "Nepald"
     NR: "Naurud"
     NU: "Niued"

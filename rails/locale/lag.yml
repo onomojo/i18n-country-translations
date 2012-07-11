@@ -181,7 +181,7 @@ lag:
     NG: "Niijéria"
     NI: "Nikarágʉa"
     NL: "Ʉholáanzi"
-    NO: "Norwe"
+    'NO': "Norwe"
     NP: "Nepáali"
     NR: "Naúuru"
     NU: "Niúue"

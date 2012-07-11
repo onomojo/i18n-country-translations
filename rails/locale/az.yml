@@ -180,7 +180,7 @@ az:
     NG: "Nijeriya; [draft=contributed]"
     NI: "Nikaraqua; [draft=contributed]"
     NL: "Hollandiya; [draft=contributed]"
-    NO: "Norvec; [draft=contributed]"
+    'NO': "Norvec; [draft=contributed]"
     NP: "Nepal; [draft=contributed]"
     NR: "Nauru; [draft=contributed]"
     NU: "Niye; [draft=contributed]"

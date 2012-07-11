@@ -180,7 +180,7 @@ br:
     NG: "Nigeria"
     NI: "Nicaragua"
     NL: "Izelvroioù"
-    NO: "Norvegia"
+    'NO': "Norvegia"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"
