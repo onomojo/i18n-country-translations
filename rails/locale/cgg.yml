@@ -181,7 +181,7 @@ cgg:
     NG: "Naigyeriya"
     NI: "Nikaragwa"
     NL: "Hoorandi"
-    NO: "Noorwe"
+    'NO': "Noorwe"
     NP: "Nepo"
     NR: "Nauru"
     NU: "Niue"

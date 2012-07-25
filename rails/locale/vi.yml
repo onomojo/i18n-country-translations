@@ -181,7 +181,7 @@ vi:
     NG: "Ni-giê-ri-a"
     NI: "Ni-ca-ra-goa"
     NL: "Hà Lan"
-    NO: "Na Uy"
+    'NO': "Na Uy"
     NP: "Nê-pan"
     NR: "Nauru; [draft=contributed]"
     NU: "Niue; [draft=contributed]"

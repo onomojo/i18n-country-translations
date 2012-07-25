@@ -181,7 +181,7 @@ mer:
     NG: "Nijeria"
     NI: "Nikaragwa"
     NL: "Holandi"
-    NO: "Norwi"
+    'NO': "Norwi"
     NP: "Nepali"
     NR: "Nauru"
     NU: "Niue"

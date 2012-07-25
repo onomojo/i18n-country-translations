@@ -181,7 +181,7 @@ naq:
     NG: "Nigerieb"
     NI: "Nicaraguab"
     NL: "Netherlands"
-    NO: "Noorweeb"
+    'NO': "Noorweeb"
     NP: "Nepali"
     NR: "Nauru"
     NU: "Niue"

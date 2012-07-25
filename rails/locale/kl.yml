@@ -179,7 +179,7 @@ kl:
     NG: "Nigeriad"
     NI: "Nicaraguad"
     NL: "Hollandid"
-    NO: "Norged"
+    'NO': "Norged"
     NP: "Nepald"
     NR: "Naurud"
     NU: "Niued"

@@ -181,7 +181,7 @@ kea:
     NG: "Nijeria"
     NI: "Nikaragua"
     NL: "Olanda"
-    NO: "Noruega"
+    'NO': "Noruega"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

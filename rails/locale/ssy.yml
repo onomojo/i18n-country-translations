@@ -179,7 +179,7 @@ ssy:
     NG: "NG"
     NI: "NI"
     NL: "NL"
-    NO: "NO"
+    'NO': "NO"
     NP: "NP"
     NR: "NR"
     NU: "NU"

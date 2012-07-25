@@ -183,7 +183,7 @@ gd:
     NG: "Nigèiriad"
     NI: "Niocaraguad"
     NL: "Na Tìrean Ìsled"
-    NO: "An Nirribhidhd"
+    'NO': "An Nirribhidhd"
     NP: "Neapàld"
     NR: "Nabhrud"
     NT: "An Roinn Neodrachd"

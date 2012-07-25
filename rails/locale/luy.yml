@@ -181,7 +181,7 @@ luy:
     NG: "Nijeria"
     NI: "Nikaragwa"
     NL: "Uholanzi"
-    NO: "Norwe"
+    'NO': "Norwe"
     NP: "Nepali"
     NR: "Nauru"
     NU: "Niue"

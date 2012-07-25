@@ -181,7 +181,7 @@ ksb:
     NG: "Naijelia"
     NI: "Nikalagwa"
     NL: "Uholanzi"
-    NO: "Nolwei"
+    'NO': "Nolwei"
     NP: "Nepali"
     NR: "Naulu"
     NU: "Niue"

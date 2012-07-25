@@ -181,7 +181,7 @@ ff:
     NG: "Nijeriyaa"
     NI: "Nikaraguwaa"
     NL: "Nederlannda"
-    NO: "Norwees"
+    'NO': "Norwees"
     NP: "Nepaal"
     NR: "Nawuru"
     NU: "Niuwe"

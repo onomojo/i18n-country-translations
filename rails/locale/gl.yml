@@ -181,7 +181,7 @@ gl:
     NG: "Nixeria; [draft=contributed]"
     NI: "Nicaragua; [draft=contributed]"
     NL: "Países Baixos; [draft=contributed]"
-    NO: "Noruega; [draft=contributed]"
+    'NO': "Noruega; [draft=contributed]"
     NP: "Nepal; [draft=contributed]"
     NR: "Nauru; [draft=contributed]"
     NU: "Niue; [draft=contributed]"

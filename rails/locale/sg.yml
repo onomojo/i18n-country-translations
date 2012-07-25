@@ -181,7 +181,7 @@ sg:
     NG: "Nizerïa"
     NI: "Nikaragua"
     NL: "Holände"
-    NO: "Nörvêzi"
+    'NO': "Nörvêzi"
     NP: "Nëpâli"
     NR: "Nauru"
     NU: "Niue"

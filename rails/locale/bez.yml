@@ -181,7 +181,7 @@ bez:
     NG: "Hunijelia"
     NI: "Hunikaragwa"
     NL: "Huuholanzi"
-    NO: "Hunolwe"
+    'NO': "Hunolwe"
     NP: "Hunepali"
     NR: "Hunauru"
     NU: "Huniue"

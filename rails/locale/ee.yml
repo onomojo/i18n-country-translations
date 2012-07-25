@@ -181,7 +181,7 @@ ee:
     NG: "Nigeria nutome"
     NI: "Nicaraguadukɔ"
     NL: "Nedalands nutome"
-    NO: "Norway nutome"
+    'NO': "Norway nutome"
     NP: "Nepal nutome"
     NR: "Nauru nutome"
     NU: "Niue nutome"

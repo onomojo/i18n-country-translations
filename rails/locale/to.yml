@@ -180,7 +180,7 @@ to:
     NG: "Naisilia"
     NI: "Nikalakua"
     NL: "Hōlani"
-    NO: "Noauē"
+    'NO': "Noauē"
     NP: "Nepali"
     NR: "Naulu"
     NU: "Niuē"

@@ -182,7 +182,7 @@ sk:
     NG: "Nigéria"
     NI: "Nikaragua"
     NL: "Holandsko"
-    NO: "Nórsko"
+    'NO': "Nórsko"
     NP: "Nepál"
     NR: "Nauru"
     NU: "Niue"

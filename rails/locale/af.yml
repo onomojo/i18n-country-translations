@@ -181,7 +181,7 @@ af:
     NG: "Nigerië"
     NI: "Nicaragua"
     NL: "Nederland"
-    NO: "Noorweë"
+    'NO': "Noorweë"
     NP: "Nepal"
     NR: "Naoeroe"
     NU: "Niue"

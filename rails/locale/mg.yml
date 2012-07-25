@@ -181,7 +181,7 @@ mg:
     NG: "Nizeria"
     NI: "Nikaragoà"
     NL: "Holanda"
-    NO: "Nôrvezy"
+    'NO': "Nôrvezy"
     NP: "Nepala"
     NR: "Naorò"
     NU: "Nioé"

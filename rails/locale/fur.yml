@@ -181,7 +181,7 @@ fur:
     NG: "Nigeried"
     NI: "Nicaraguad"
     NL: "Paîs basd"
-    NO: "Norvegjed"
+    'NO': "Norvegjed"
     NP: "Nepald"
     NR: "Naurud"
     NU: "Niued"

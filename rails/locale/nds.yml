@@ -180,7 +180,7 @@ nds:
     NG: "Nigeriad"
     NI: "Nikaraguad"
     NL: "Nedderlannend"
-    NO: "Norwegend"
+    'NO': "Norwegend"
     NP: "Nepald"
     NR: "Naurud"
     NU: "Niued"

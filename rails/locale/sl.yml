@@ -182,7 +182,7 @@ sl:
     NG: "Nigerija"
     NI: "Nikaragva"
     NL: "Nizozemska"
-    NO: "Norveška"
+    'NO': "Norveška"
     NP: "Nepal"
     NR: "Nauru"
     NU: "Niue"

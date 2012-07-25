@@ -181,7 +181,7 @@ cs:
     NG: "Nigérie"
     NI: "Nikaragua"
     NL: "Nizozemsko"
-    NO: "Norsko"
+    'NO': "Norsko"
     NP: "Nepál"
     NR: "Nauru"
     NU: "Niue"

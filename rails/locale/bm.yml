@@ -181,7 +181,7 @@ bm:
     NG: "Nizeriya"
     NI: "Nikaragwa"
     NL: "Peyiba"
-    NO: "Nɔriwɛzi"
+    'NO': "Nɔriwɛzi"
     NP: "Nepali"
     NR: "Nawuru"
     NU: "Nyuwe"
