@@ -76,7 +76,9 @@ namespace :import do
   countries:
 HEAD
       countries.each do |country|
-        output << "    #{country[:code]}: \"#{country[:name]}\"\n"
+        country_code = country[:code] == :NO ? "\'NO\'" : country[:code]
+        country_name = country[:name].gsub("; [draft=contributed]", "")
+        output << "    #{country_code}: \"#{country_name}\"\n"
       end
       output <<<<TAIL
 TAIL
