@@ -1,6 +1,6 @@
 ga:
   countries:
-    AC: "AC"
+    AC: "Oileán na Deascabhálad"
     AD: "Andóra"
     AE: "Aontas na nÉimíríochtaí Arabacha"
     AF: "An Afganastáin"
@@ -27,7 +27,7 @@ ga:
     BH: "Bairéin"
     BI: "An Bhurúin"
     BJ: "Beinin"
-    BL: "BL"
+    BL: "Saint Barthélemyd"
     BM: "Beirmiúda"
     BN: "Brúiné"
     BO: "An Bholaiv"
@@ -56,7 +56,6 @@ ga:
     CO: "An Cholóim"
     CP: "CP"
     CR: "Cósta Ríce"
-    CS: "An tSeirbia agus Montainéagró"
     CU: "Cúba"
     CV: "An Rinn Ghlas"
     CW: "CW"
@@ -223,7 +222,7 @@ ga:
     SN: "An tSeineagáil"
     SO: "An tSomáil"
     SR: "Suranam"
-    SS: "SS"
+    SS: "An tSúdáin Theasd"
     ST: "Sao Tome agus Principe"
     SV: "An tSalvadóir"
     SX: "SX"
