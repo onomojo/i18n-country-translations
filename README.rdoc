@@ -43,6 +43,7 @@ You can also use these standard translations to help if you don't want to use th
 * Kamil Politowicz - https://github.com/kpolitowicz
 * Valentin Rabanelly - https://github.com/vjrabanelly
 * Cyril Mougel - https://github.com/shingara
+* Nick Grimshaw - https://github.com/nickgrim
 
 == Related
 You may also be intersted in the i18n_country_select gem which basically gives you a helper to make use of these translations in a coutry select dropdown.
@@ -52,7 +53,7 @@ If you need to use timezones, we also created a convenient way to translate the 
 https://github.com/onomojo/i18n-timezones
 
 == Version History
-
+1.0.1 - Fixing bad version in Gemfile.lock
 1.0 - Adding fr-CA translation
 0.0.9 - Update the locale files with the last values from the CLDR repository
 
