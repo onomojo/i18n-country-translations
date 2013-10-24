@@ -26,4 +26,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "i18n-spec", ">= 0.1.1"
   s.add_development_dependency "spork", "~> 1.0rc"
   s.add_development_dependency "hpricot"
+  s.licenses = ['MIT', 'GPL-2']
 end
