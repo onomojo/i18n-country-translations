@@ -54,7 +54,8 @@ If you need to use timezones, we also created a convenient way to translate the 
 https://github.com/onomojo/i18n-timezones
 
 == Version History
-* 1.0.2 - Fixing bad PT translations
+* 1.0.3 - Adding zh-TW translations.
+* 1.0.2 - Fixing bad PT translations. Adding licenses to gemspec.
 * 1.0.1 - Fixing bad version in Gemfile.lock
 * 1.0 - Adding fr-CA translation
 * 0.0.9 - Update the locale files with the last values from the CLDR repository
