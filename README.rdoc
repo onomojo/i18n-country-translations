@@ -45,6 +45,7 @@ You can also use these standard translations to help if you don't want to use th
 * Cyril Mougel - https://github.com/shingara
 * Nick Grimshaw - https://github.com/nickgrim
 * Fábio André Damas - https://github.com/skkeeper
+* Allen Wyma - https://github.com/HangingClowns
 
 == Related
 You may also be intersted in the i18n_country_select gem which basically gives you a helper to make use of these translations in a coutry select dropdown.
@@ -54,6 +55,7 @@ If you need to use timezones, we also created a convenient way to translate the 
 https://github.com/onomojo/i18n-timezones
 
 == Version History
+* 1.0.4 - Adding zh-HK and zh-CN translations.
 * 1.0.3 - Adding zh-TW translations.
 * 1.0.2 - Fixing bad PT translations. Adding licenses to gemspec.
 * 1.0.1 - Fixing bad version in Gemfile.lock
