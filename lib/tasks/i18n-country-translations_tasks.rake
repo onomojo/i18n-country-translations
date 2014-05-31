@@ -23,27 +23,10 @@ namespace :import do
     if ENV['IMPORT_LOCALE']
       locales = [ENV['IMPORT_LOCALE']]
     else
-      # Not found in CLDR: trv, sid, oc, nds, mn, kaj, kcg, gaa, cch
-      locales = ["aa", "af", "agq", "ak", "am", "ar", "as", "asa", "az", "bas",
-                 "be", "bem", "bez", "bg", "bm", "bn", "bo", "br", "brx", "bs",
-                 "byn", "ca", "cgg", "chr", "cs", "cy", "da", "dav", "de", "dje",
-                 "dua", "dyo", "dz", "ebu", "ee", "el", "en", "eo", "es", "et",
-                 "eu", "ewo", "fa", "ff", "fi", "fil", "fo", "fr", "fur", "ga",
-                 "gaa", "gd", "gl", "gsw", "gu", "guz", "gv", "ha", "haw", "he",
-                 "hi", "hr", "hu", "hy", "ia", "id", "ig", "ii", "is", "it", "ja",
-                 "jmc", "ka", "kab", "kaj", "kam", "kcg", "kde", "kea", "khq",
-                 "ki", "kk", "kl", "kln", "km", "kn", "ko", "kok", "ksb", "ksf",
-                 "ksh", "kw", "ky", "lag", "lg", "ln", "lo", "lt", "lu", "luo",
-                 "luy", "lv", "mas", "mer", "mfe", "mg", "mgh", "mk", "ml", "mn",
-                 "mr", "ms", "mt", "mua", "my", "naq", "nb", "nd", "nds", "ne",
-                 "nl", "nmg", "nn", "nr", "nso", "nus", "nyn", "oc", "om", "or",
-                 "pa", "pl", "ps", "pt", "rm", "rn", "ro", "rof", "ru", "rw",
-                 "rwk", "sah", "saq", "sbp", "se", "seh", "ses", "sg", "shi", "si",
-                 "sid", "sk", "sl", "sn", "so", "sq", "sr", "ss", "ssy", "st",
-                 "sv", "sw", "swc", "ta", "te", "teo", "tg", "th", "ti", "tig",
-                 "tn", "to", "tr", "trv", "ts", "twq", "tzm", "uk", "ur", "uz",
-                 "vai", "ve", "vi", "vun", "wae", "wal", "xh", "xog", "yav", "yo", "zh", "zu"]
+      locale_files = Dir.glob("rails/locale/iso_639-1/*")
+      locales = locale_files.map{|f| f.split('/')[2].split('.')[0] }
     end
+
 
     locales.each_with_index do |locale, index|
       # ----- Get the CLDR HTML     --------------------------------------------------
@@ -59,23 +42,27 @@ namespace :import do
       # ----- Parse the HTML with Hpricot     ----------------------------------------
       countries = []
       doc.search("//tr").each do |row|
-        if row.search("td[@class='n']") && 
-           row.search("td[@class='n']").inner_html =~ /^namesterritory$/ && 
-           row.search("td[@class='g']").inner_html =~ /^[A-Z]{2}/
-          code   = row.search("td[@class='g']").inner_text
+        if row.search("td[@class='n']") &&
+           row.search("td[@class='n']").first &&
+           (row.search("td[@class='n']").first.inner_text =~ /^Locale Display Names$/) &&
+           row.search("td[@class='g']") &&
+           row.search("td[@class='g']").last &&
+           (row.search("td[@class='g']").last.inner_text =~ /^\s*[A-Z]{2}\s*$/) &&
+           row.search("td[@class='v']") &&
+           row.search("td[@class='v']").first
+          code   = row.search("td[@class='g']").last.inner_text
           code   = code[-code.size, 2]
-          name   = row.search("td[@class='v']").inner_text
+          name   = row.search("td[@class='v']").first.inner_text
           countries << { :code => code.to_sym, :name => name.to_s }
         end
       end
-
 
       # ----- Prepare the output format     ------------------------------------------
       output =<<HEAD
 #{locale}:
   countries:
 HEAD
-      countries.each do |country|
+      countries.sort { |x,y| x[:code] <=> y[:code] }.each do |country|
         country_code = country[:code] == :NO ? "\'NO\'" : country[:code]
         country_name = country[:name].gsub("; [draft=contributed]", "")
         output << "    #{country_code}: \"#{country_name}\"\n"
@@ -87,7 +74,7 @@ TAIL
       # ----- Write the parsed values into file      ---------------------------------
       puts "\n... writing the output"
       filename = File.join(File.dirname(__FILE__), '..', '..', 'rails', 'locale', "#{locale}.yml")
-      filename += '.NEW' if File.exists?(filename) # Append 'NEW' if file exists
+      File.rename(filename, filename + ".OLD") if File.exists?(filename) # Rename by appending 'OLD' if file exists
       File.open(filename, 'w+') { |f| f << output }
       puts "\n---\nWritten values for the '#{locale}' into file: #{filename}\n"
       # ------------------------------------------------------------------------------
