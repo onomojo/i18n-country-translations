@@ -59,6 +59,7 @@ If you need to use timezones, we also created a convenient way to translate the 
 https://github.com/onomojo/i18n-timezones
 
 == Version History
+* 1.1.0 - Updating all locales and separating out iso639-1 locales from 3 character unicode supported locales
 * 1.0.4 - Adding zh-HK and zh-CN translations.
 * 1.0.3 - Adding zh-TW translations.
 * 1.0.2 - Fixing bad PT translations. Adding licenses to gemspec.
