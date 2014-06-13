@@ -5,7 +5,11 @@ The purpose of this gem is to simply provide country translations. The gem is in
 If you're doing anything with country names and translations, there's no need to reinvent the wheel and add your own translations. Just use this gem's country translations and skip the hassle of having to add and manage each country translation for each locale.
 
 == Supported Locales
-There are translations for almost all locales. The list of available locales is too big to be useful. If you're wondering if a specific locale is here, more than likely it is.
+Locales we will include are specified by ISO 639-1 alpha2, http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes with some extra 3 character locale codes supported by Unicode, http://unicode.org/repos/cldr-tmp/trunk/diff/summary/root.html
+
+== Supported Country Codes
+Country codes used are those specified in ISO 3166-2, http://en.wikipedia.org/wiki/ISO_3166-2:XK#Current_codes
+
 
 == Installation
 
@@ -55,6 +59,7 @@ If you need to use timezones, we also created a convenient way to translate the 
 https://github.com/onomojo/i18n-timezones
 
 == Version History
+* 1.1.0 - Updating all locales and separating out iso639-1 locales from 3 character unicode supported locales
 * 1.0.4 - Adding zh-HK and zh-CN translations.
 * 1.0.3 - Adding zh-TW translations.
 * 1.0.2 - Fixing bad PT translations. Adding licenses to gemspec.
