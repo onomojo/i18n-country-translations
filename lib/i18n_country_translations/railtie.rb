@@ -6,7 +6,7 @@ module I18nCountryTranslations
       I18nCountryTranslations::Railtie.instance_eval do
         pattern = pattern_from app.config.i18n.available_locales
 
-        add("rails/locale/#{pattern}.yml")
+        add("rails/locale/**/#{pattern}.yml")
       end
     end
 
