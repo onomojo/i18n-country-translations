@@ -1,262 +1,263 @@
+---
 ia:
   countries:
-    AC: "AC"
-    AD: "AD"
-    AE: "Emiratos Arabe Unite"
-    AF: "Afghanistan"
-    AG: "Antigua e Barbuda"
-    AI: "AI"
-    AL: "Albania"
-    AM: "Armenia"
-    AN: "Antillas nederlandese"
-    AO: "Angola"
-    AQ: "Antarctica"
-    AR: "Argentina"
-    AS: "Samoa american"
-    AT: "Austria"
-    AU: "Australia"
-    AW: "AW"
-    AX: "AX"
-    AZ: "Azerbaidzhan"
-    BA: "Bosnia e Herzegovina"
-    BB: "BB"
-    BD: "Bangladesh"
-    BE: "Belgica"
-    BF: "Burkina Faso"
-    BG: "Bulgaria"
-    BH: "BH"
-    BI: "Burundi"
-    BJ: "Benin"
-    BL: "BL"
-    BM: "BM"
-    BN: "BN"
-    BO: "Bolivia"
-    BQ: "BQ"
-    BR: "Brasil"
-    BS: "Bahamas"
-    BT: "Bhutan"
-    BV: "Insula de Bouvet"
-    BW: "Botswana"
-    BY: "Bielorussia"
-    BZ: "BZ"
-    CA: "Canada"
-    CC: "CC"
-    CD: "CD"
-    CF: "Republica African Central"
-    CG: "Congo"
-    CH: "Suissa"
-    CI: "CI"
-    CK: "Insulas Cook"
-    CL: "Chile"
-    CM: "Camerun"
-    CN: "China"
-    CO: "Colombia"
-    CP: "CP"
-    CR: "CR"
-    CU: "Cuba"
-    CV: "CV"
-    CW: "CW"
-    CX: "Insula de Natal"
-    CY: "Cypro"
-    CZ: "Republica Tchec"
-    DE: "Germania"
-    DG: "DG"
-    DJ: "DJ"
-    DK: "Danmark"
-    DM: "DM"
-    DO: "Republica Dominican"
-    DZ: "Algeria"
-    EA: "EA"
-    EC: "Ecuador"
-    EE: "Estonia"
-    EG: "Egypto"
-    EH: "Sahara occidental"
-    ER: "Eritrea"
-    ES: "Espania"
-    ET: "Ethiopia"
-    EU: "EU"
-    FI: "Finlandia"
-    FJ: "FJ"
-    FK: "FK"
-    FM: "Micronesia"
-    FO: "Insulas Feroe"
-    FR: "Francia"
-    GA: "Gabon"
-    GB: "Regno Unite"
-    GD: "GD"
-    GE: "Georgia"
-    GF: "Guyana francese"
-    GG: "GG"
-    GH: "Ghana"
-    GI: "GI"
-    GL: "Groenlandia"
-    GM: "Gambia"
-    GN: "Guinea"
-    GP: "GP"
-    GQ: "Guinea equatorial"
-    GR: "Grecia"
-    GS: "GS"
-    GT: "GT"
-    GU: "GU"
-    GW: "Guinea-Bissau"
-    GY: "GY"
-    HK: "HK"
-    HM: "HM"
-    HN: "Honduras"
-    HR: "Croatia"
-    HT: "Haiti"
-    HU: "Hungaria"
-    IC: "IC"
-    ID: "Indonesia"
-    IE: "Irlanda"
-    IL: "Israel"
-    IM: "IM"
-    IN: "India"
-    IO: "Territorio oceanic britanno-indian"
-    IQ: "Irak"
-    IR: "Iran"
-    IS: "Islanda"
-    IT: "Italia"
-    JE: "JE"
-    JM: "JM"
-    JO: "Jordania"
-    JP: "Japon"
-    KE: "Kenya"
-    KG: "Kirghizistan"
-    KH: "Cambodgia"
-    KI: "Kiribati"
-    KM: "Comoros"
-    KN: "Sancte Christophoro e Nevis"
-    KP: "Corea del Nord"
-    KR: "Corea del Sud"
-    KW: "KW"
-    KY: "Insulas de Caiman"
-    KZ: "Kazakhstan"
-    LA: "LA"
-    LB: "Libano"
-    LC: "Sancte Lucia"
-    LI: "Liechtenstein"
-    LK: "Sri Lanka"
-    LR: "Liberia"
-    LS: "Lesotho"
-    LT: "Lituania"
-    LU: "LU"
-    LV: "Lettonia"
-    LY: "Libya"
-    MA: "Marocco"
-    MC: "MC"
-    MD: "Moldavia"
-    ME: "ME"
-    MF: "MF"
-    MG: "Madagascar"
-    MH: "Insulas Marshall"
-    MK: "Macedonia"
-    ML: "Mali"
-    MM: "Birmania/Myanmar"
-    MN: "Mongolia"
-    MO: "MO"
-    MP: "Insulas Marianna del Nord"
-    MQ: "MQ"
-    MR: "Mauritania"
-    MS: "MS"
-    MT: "MT"
-    MU: "MU"
-    MV: "MV"
-    MW: "Malawi"
-    MX: "Mexico"
-    MY: "Malaysia"
-    MZ: "Mozambique"
-    NA: "Namibia"
-    NC: "Nove Caledonia"
-    NE: "Niger"
-    NF: "Insula Norfolk"
-    NG: "Nigeria"
-    NI: "Nicaragua"
-    NL: "Nederlandia"
-    'NO': "Norvegia"
-    NP: "Nepal"
-    NR: "NR"
-    NU: "NU"
-    NZ: "Nove Zelanda"
-    OM: "Oman"
-    PA: "PA"
-    PE: "Peru"
-    PF: "Polynesia francese"
-    PG: "Papua Nove Guinea"
-    PH: "Philippinas"
-    PK: "Pakistan"
-    PL: "Polonia"
-    PM: "PM"
-    PN: "PN"
-    PR: "PR"
-    PS: "PS"
-    PT: "Portugal"
-    PW: "PW"
-    PY: "Paraguay"
-    QA: "QA"
-    QO: "QO"
-    RE: "RE"
-    RO: "Romania"
-    RS: "RS"
-    RU: "RU"
-    RW: "Ruanda"
-    SA: "Arabia Saudita"
-    SB: "Insulas Solomon"
-    SC: "Seychelles"
-    SD: "Sudan"
-    SE: "Svedia"
-    SG: "SG"
-    SH: "SH"
-    SI: "Slovenia"
-    SJ: "SJ"
-    SK: "Slovachia"
-    SL: "Sierra Leone"
-    SM: "San Marino"
-    SN: "Senegal"
-    SO: "Somalia"
-    SR: "Suriname"
-    SS: "Sudan del Sud"
-    ST: "ST"
-    SV: "SV"
-    SX: "SX"
-    SY: "Syria"
-    SZ: "Swazilandia"
-    TA: "TA"
-    TC: "Insulas Turcos e Caicos"
-    TD: "Tchad"
-    TF: "Territorios meridional francese"
-    TG: "Togo"
-    TH: "Thailandia"
-    TJ: "Tadzhikistan"
-    TK: "Tokelau"
-    TL: "Timor del Est"
-    TM: "Turkmenistan"
-    TN: "Tunisia"
-    TO: "tonga"
-    TR: "Turchia"
-    TT: "Trinidad e Tobago"
-    TV: "Tuvalu"
-    TW: "Taiwan"
-    TZ: "Tanzania"
-    UA: "Ukraina"
-    UG: "Uganda"
-    UM: "UM"
-    US: "Statos Unite"
-    UY: "Uruguay"
-    UZ: "Uzbekistan"
-    VA: "VA"
-    VC: "Sancte Vincente e le Grenadinas"
-    VE: "Venezuela"
-    VG: "VG"
-    VI: "VI"
-    VN: "VN"
-    VU: "Vanuatu"
-    WF: "WF"
-    WS: "Samoa"
-    XK: "XK"
-    YE: "Yemen"
-    YT: "YT"
-    ZA: "Africa del Sud"
-    ZM: "Zambia"
-    ZW: "Zimbabwe"
-    ZZ: "ZZ"
+    AC: AC
+    AD: AD
+    AE: Emiratos Arabe Unite
+    AF: Afghanistan
+    AG: Antigua e Barbuda
+    AI: AI
+    AL: Albania
+    AM: Armenia
+    AN: Antillas nederlandese
+    AO: Angola
+    AQ: Antarctica
+    AR: Argentina
+    AS: Samoa american
+    AT: Austria
+    AU: Australia
+    AW: AW
+    AX: AX
+    AZ: Azerbaidzhan
+    BA: Bosnia e Herzegovina
+    BB: BB
+    BD: Bangladesh
+    BE: Belgica
+    BF: Burkina Faso
+    BG: Bulgaria
+    BH: BH
+    BI: Burundi
+    BJ: Benin
+    BL: BL
+    BM: BM
+    BN: BN
+    BO: Bolivia
+    BQ: BQ
+    BR: Brasil
+    BS: Bahamas
+    BT: Bhutan
+    BV: Insula de Bouvet
+    BW: Botswana
+    BY: Bielorussia
+    BZ: BZ
+    CA: Canada
+    CC: CC
+    CD: CD
+    CF: Republica African Central
+    CG: Congo
+    CH: Suissa
+    CI: CI
+    CK: Insulas Cook
+    CL: Chile
+    CM: Camerun
+    CN: China
+    CO: Colombia
+    CP: CP
+    CR: CR
+    CU: Cuba
+    CV: CV
+    CW: CW
+    CX: Insula de Natal
+    CY: Cypro
+    CZ: Republica Tchec
+    DE: Germania
+    DG: DG
+    DJ: DJ
+    DK: Danmark
+    DM: DM
+    DO: Republica Dominican
+    DZ: Algeria
+    EA: EA
+    EC: Ecuador
+    EE: Estonia
+    EG: Egypto
+    EH: Sahara occidental
+    ER: Eritrea
+    ES: Espania
+    ET: Ethiopia
+    EU: EU
+    FI: Finlandia
+    FJ: FJ
+    FK: FK
+    FM: Micronesia
+    FO: Insulas Feroe
+    FR: Francia
+    GA: Gabon
+    GB: Regno Unite
+    GD: GD
+    GE: Georgia
+    GF: Guyana francese
+    GG: GG
+    GH: Ghana
+    GI: GI
+    GL: Groenlandia
+    GM: Gambia
+    GN: Guinea
+    GP: GP
+    GQ: Guinea equatorial
+    GR: Grecia
+    GS: GS
+    GT: GT
+    GU: GU
+    GW: Guinea-Bissau
+    GY: GY
+    HK: HK
+    HM: HM
+    HN: Honduras
+    HR: Croatia
+    HT: Haiti
+    HU: Hungaria
+    IC: IC
+    ID: Indonesia
+    IE: Irlanda
+    IL: Israel
+    IM: IM
+    IN: India
+    IO: Territorio oceanic britanno-indian
+    IQ: Irak
+    IR: Iran
+    IS: Islanda
+    IT: Italia
+    JE: JE
+    JM: JM
+    JO: Jordania
+    JP: Japon
+    KE: Kenya
+    KG: Kirghizistan
+    KH: Cambodgia
+    KI: Kiribati
+    KM: Comoros
+    KN: Sancte Christophoro e Nevis
+    KP: Corea del Nord
+    KR: Corea del Sud
+    KW: KW
+    KY: Insulas de Caiman
+    KZ: Kazakhstan
+    LA: LA
+    LB: Libano
+    LC: Sancte Lucia
+    LI: Liechtenstein
+    LK: Sri Lanka
+    LR: Liberia
+    LS: Lesotho
+    LT: Lituania
+    LU: LU
+    LV: Lettonia
+    LY: Libya
+    MA: Marocco
+    MC: MC
+    MD: Moldavia
+    ME: ME
+    MF: MF
+    MG: Madagascar
+    MH: Insulas Marshall
+    MK: Macedonia
+    ML: Mali
+    MM: Birmania/Myanmar
+    MN: Mongolia
+    MO: MO
+    MP: Insulas Marianna del Nord
+    MQ: MQ
+    MR: Mauritania
+    MS: MS
+    MT: MT
+    MU: MU
+    MV: MV
+    MW: Malawi
+    MX: Mexico
+    MY: Malaysia
+    MZ: Mozambique
+    NA: Namibia
+    NC: Nove Caledonia
+    NE: Niger
+    NF: Insula Norfolk
+    NG: Nigeria
+    NI: Nicaragua
+    NL: Nederlandia
+    'NO': Norvegia
+    NP: Nepal
+    NR: NR
+    NU: NU
+    NZ: Nove Zelanda
+    OM: Oman
+    PA: PA
+    PE: Peru
+    PF: Polynesia francese
+    PG: Papua Nove Guinea
+    PH: Philippinas
+    PK: Pakistan
+    PL: Polonia
+    PM: PM
+    PN: PN
+    PR: PR
+    PS: PS
+    PT: Portugal
+    PW: PW
+    PY: Paraguay
+    QA: QA
+    QO: QO
+    RE: RE
+    RO: Romania
+    RS: RS
+    RU: RU
+    RW: Ruanda
+    SA: Arabia Saudita
+    SB: Insulas Solomon
+    SC: Seychelles
+    SD: Sudan
+    SE: Svedia
+    SG: SG
+    SH: SH
+    SI: Slovenia
+    SJ: SJ
+    SK: Slovachia
+    SL: Sierra Leone
+    SM: San Marino
+    SN: Senegal
+    SO: Somalia
+    SR: Suriname
+    SS: Sudan del Sud
+    ST: ST
+    SV: SV
+    SX: SX
+    SY: Syria
+    SZ: Swazilandia
+    TA: TA
+    TC: Insulas Turcos e Caicos
+    TD: Tchad
+    TF: Territorios meridional francese
+    TG: Togo
+    TH: Thailandia
+    TJ: Tadzhikistan
+    TK: Tokelau
+    TL: Timor del Est
+    TM: Turkmenistan
+    TN: Tunisia
+    TO: tonga
+    TR: Turchia
+    TT: Trinidad e Tobago
+    TV: Tuvalu
+    TW: Taiwan
+    TZ: Tanzania
+    UA: Ukraina
+    UG: Uganda
+    UM: UM
+    US: Statos Unite
+    UY: Uruguay
+    UZ: Uzbekistan
+    VA: VA
+    VC: Sancte Vincente e le Grenadinas
+    VE: Venezuela
+    VG: VG
+    VI: VI
+    VN: VN
+    VU: Vanuatu
+    WF: WF
+    WS: Samoa
+    XK: XK
+    YE: Yemen
+    YT: YT
+    ZA: Africa del Sud
+    ZM: Zambia
+    ZW: Zimbabwe
+    ZZ: ZZ
