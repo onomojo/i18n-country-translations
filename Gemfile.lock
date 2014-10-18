@@ -3,7 +3,7 @@ PATH
   specs:
     i18n-country-translations (1.1.1)
       i18n (~> 0.5)
-      railties (~> 3.0)
+      railties (>= 3.0)
 
 GEM
   remote: http://rubygems.org/
