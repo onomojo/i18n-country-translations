@@ -1,16 +1,35 @@
-require 'spec_helper'
 
-Dir.glob('rails/locale/*/*.yml') do |locale_file|
-  describe "a i18n-country-translations #{locale_file} locale file" do
-    it_behaves_like 'a valid locale file', locale_file
-    it { locale_file.should be_a_subset_of('rails/locale/iso_639-1/en.yml') }
+describe "single call" do
+  it "translates correctly" do
+    expect(I18n.t(:ES, :scope => :countries)).to eql "Spain"
+  end
+end
 
-    I18n.locale = locale_file.split('/').last.split('.').first
-    translations = I18n.backend.send(:translations)
-    translations.keys.each do |country_code|
-      p I18n.t(country_code, :scope => :countries, :separator => "\001") if I18n.t(country_code, :scope => :countries, :separator => "\001").include?('translation missing')
-      it { I18n.t(country_code, :scope => :countries, :separator => "\001").should_not == country_code }
-      it { I18n.t(country_code, :scope => :countries, :separator => "\001").include?('translation missing').should == false }
+Dir.glob('rails/locale/iso_639-1/*.yml') do |locale_file|
+
+  # locale rof is missing in https://github.com/tigrish/iso/blob/master/data/iso-639-1.yml
+  next if locale_file == 'rails/locale/iso_639-1/rof.yml'
+
+  describe locale_file do
+    it_behaves_like "a valid locale file", locale_file
+    it { is_expected.to be_a_subset_of "rails/locale/iso_639-1/en.yml" }
+
+    context "file structure" do
+      it "ensures correctness" do
+        locale = setup_locale(locale_file)
+
+        translations = I18n.backend.send(:translations)
+        keys = translations[locale.to_sym][:countries].keys
+
+        keys.each do |country_code|
+          expect(I18n.t(country_code, :scope => :countries, :separator => "\001")).to_not eql country_code
+          expect(I18n.t(country_code, :scope => :countries, :separator => "\001").include?("translation missing")).to be_falsy
+        end
+      end
     end
   end
+end
+
+def setup_locale(locale_file)
+  locale_file.split("/").last.split(".").first
 end
