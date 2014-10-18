@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "I18n Country Translations"
   s.description = "The purpose of this gem is to simply provide country translations. The gem is intended to be easy to combine with other gems that require i18n country translations so we can have common i18n country translation gem."
 
-  s.files        = Dir.glob("lib/**/*") + Dir.glob("rails/locale/*") +
+  s.files        = Dir.glob("lib/**/*") + Dir.glob("rails/locale/**/*") +
                    %w(README.rdoc MIT-LICENSE)
   s.test_files = Dir["test/**/*"]
   s.require_path = 'lib'
