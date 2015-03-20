@@ -19,7 +19,13 @@ module I18nCountryTranslations
 
     def self.pattern_from(args)
       array = Array(args || [])
+      array = array.map { |locale| subpatterns_from locale }.flatten
       array.blank? ? '*' : "{#{array.join ','}}"
+    end
+
+    def self.subpatterns_from(locale)
+      parts = locale.to_s.split('-')
+      parts.map.with_index { |part,index| parts[0..index].join('-') }
     end
   end
 end
