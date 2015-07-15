@@ -1,3 +1,5 @@
+{<img src="https://travis-ci.org/onomojo/i18n-country-translations.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/onomojo/i18n-country-translations]
+
 = I18nCountryTranslations
 
 The purpose of this gem is to simply provide country translations. The gem is intended to be easy to combine with other gems that require i18n country translations so we can have common i18n country translation gem.
