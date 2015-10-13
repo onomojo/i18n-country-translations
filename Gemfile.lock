@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    i18n-country-translations (1.1.1)
+    i18n-country-translations (1.2.2)
       i18n (~> 0.5)
       railties (>= 3.0)
 
@@ -133,3 +133,6 @@ DEPENDENCIES
   rspec-rails
   simplecov
   webmock
+
+BUNDLED WITH
+   1.10.6
