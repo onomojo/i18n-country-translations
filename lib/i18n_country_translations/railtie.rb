@@ -1,10 +1,15 @@
 require 'rails'
+require "active_support"
 
 module I18nCountryTranslations
   class Railtie < ::Rails::Railtie #:nodoc:
+    config.i18n_countries_translations = ActiveSupport::OrderedOptions.new
+
     initializer 'i18n-country-translations' do |app|
       I18nCountryTranslations::Railtie.instance_eval do
-        pattern = pattern_from app.config.i18n.available_locales
+        locales = app.config.i18n_countries_translations.delete(:locales) ||
+          app.config.i18n.available_locales
+        pattern = pattern_from locales
 
         add("rails/locale/**/#{pattern}.yml")
       end
