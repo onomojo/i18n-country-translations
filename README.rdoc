@@ -55,6 +55,9 @@ You can also use these standard translations to help if you don't want to use th
 * Touch Ungboriboonpisal - https://github.com/erks
 * https://github.com/mstark
 * Laurent Dang - https://github.com/haeky
+* Felipe Pisa - https://github.com/frop
+* Tomek Wałkuski - https://github.com/tomekw
+* Grey Baker - https://github.com/greysteil
 
 == Related
 You may also be intersted in the i18n_country_select gem which basically gives you a helper to make use of these translations in a coutry select dropdown.

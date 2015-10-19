@@ -1,6 +1,6 @@
-## Unreleased
+## 1.2.3
 
-- Split out changelog
+- Split out changelog. Adding pt-BR. Fixing Saint Martin in en.
 
 ## 1.2.2
 
