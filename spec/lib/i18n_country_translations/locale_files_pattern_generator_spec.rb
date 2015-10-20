@@ -6,7 +6,7 @@ describe I18nCountryTranslations::LocaleFilesPatternGenerator do
     let(:generator) { I18nCountryTranslations::LocaleFilesPatternGenerator.new('base/', '.yml') }
 
     def test_pattern(pattern, sample)
-      if defined? File::FNM_EXTGLOB
+      if File.const_defined? 'FNM_EXTGLOB'
         # Use proper way to test, by calling fnmatch and actually executing the pattern.
         # This only works in Ruby 2.1.0 and upwards
         File.fnmatch(pattern, sample, File::FNM_EXTGLOB)
