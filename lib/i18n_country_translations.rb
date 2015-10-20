@@ -1,3 +1,4 @@
+require 'i18n_country_translations/locale_files_pattern_generator'
 require 'i18n_country_translations/railtie'
 
 module I18nCountryTranslations
