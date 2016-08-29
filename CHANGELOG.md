@@ -1,3 +1,7 @@
+## 1.2.4
+
+- Load all default fallbacks for a specific locale, by including all prefix subpatterns. Changed Korean translation for Australia. fix some spelling in ar.yml.
+
 ## 1.2.3
 
 - Split out changelog. Adding pt-BR. Fixing Saint Martin in en.
