@@ -147,11 +147,11 @@ PLATFORMS
 DEPENDENCIES
   i18n-country-translations!
   i18n-spec (~> 0.1, >= 0.1.1)
-  nokogiri
+  nokogiri (~> 1.8, >= 1.8.1)
   rails (~> 4.0)
   rspec-rails (~> 3.7, >= 3.7.2)
-  simplecov
-  webmock
+  simplecov (~> 0.15.1)
+  webmock (~> 3.3, >= 3.3.0)
 
 RUBY VERSION
    ruby 2.3.0p0
