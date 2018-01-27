@@ -1,3 +1,7 @@
+## 1.3.0
+
+- Removed country ZZ. Updating dependencies.
+
 ## 1.2.4
 
 - Load all default fallbacks for a specific locale, by including all prefix subpatterns. Changed Korean translation for Australia. fix some spelling in ar.yml.
