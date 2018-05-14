@@ -5,7 +5,9 @@ rescue LoadError
   puts 'You must `gem install bundler` and `bundle install` to run rake tasks'
 end
 
-require 'rspec/core/rake_task'
+require "rspec/core/rake_task"
+require "bundler/gem_tasks"
+
 task :default => :spec
 desc "Run the test suite"
 RSpec::Core::RakeTask.new
