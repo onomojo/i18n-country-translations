@@ -260,3 +260,13 @@ fr:
     ZA: Afrique du Sud
     ZM: Zambie
     ZW: Zimbabwe
+  zones:
+    CA:
+      BC: Colombie-Britannique
+      NB: Nouveau-Brunswick
+      NL: Terre-Neuve-et-Labrador
+      NT: Territoires du Nord-Ouest
+      NS: Nouvelle-Écosse
+      PE: Île-du-Prince-Édouard
+      QC: Québec
+
