@@ -260,3 +260,32 @@ ga:
     ZA: An Afraic Theas
     ZM: An tSaimbia
     ZW: An tSiombáib
+  zones:
+    IE:
+      CW: Ceatharlach
+      CN: An Cabhán
+      CE: An Clár
+      CO: Corcaigh
+      DL: Dún na nGall
+      D: Baile Átha Cliath
+      G: Gaillimh
+      KY: Ciarraí
+      KE: Cill Dara
+      KK: Cill Chainnigh
+      LS: Laois
+      LM: Liatroim
+      LK: Luimneach
+      LD: An Longfort
+      LH: Lú
+      MO: Maigh Eo
+      MH: An Mhí
+      MN: Muineachán
+      OY: Uíbh Fhailí
+      RN: Ros Comáin
+      SO: Sligeach
+      TA: Tiobraid Árann
+      WD: Port Láirge
+      WH: An Iarmhí
+      WX: Loch Garman
+      WW: Cill Mhantáin
+
