@@ -1,10 +1,11 @@
 containers:
   default:
-    docker: circleci/ruby:2.5.1-node-browsers
+    docker: circleci/ruby:2.4.4-node-browsers
 
 steps:
-- label: Tests
-  timeout: 5m
+- label: Run tests
+  dependencies:
+  - bundler
   run:
-  - echo "Hello World"
-
+  - bundle exec rake
+  timeout: 10m

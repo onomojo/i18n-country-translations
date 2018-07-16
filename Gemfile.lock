@@ -52,6 +52,7 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     arel (9.0.0)
+    ast (2.4.0)
     builder (3.2.3)
     concurrent-ruby (1.0.5)
     crack (0.4.3)
@@ -74,6 +75,7 @@ GEM
       iso
     iso (0.2.2)
       i18n
+    jaro_winkler (1.5.1)
     json (2.1.0)
     json_pure (1.8.1)
     loofah (2.2.2)
@@ -101,6 +103,10 @@ GEM
       rainbow (= 2.2.2)
       rest-client (~> 2.0)
       thor (~> 0.18)
+    parallel (1.12.1)
+    parser (2.5.1.2)
+      ast (~> 2.4.0)
+    powerpack (0.1.2)
     public_suffix (3.0.1)
     rack (2.0.5)
     rack-test (1.0.0)
@@ -153,6 +159,15 @@ GEM
       rspec-mocks (~> 3.7.0)
       rspec-support (~> 3.7.0)
     rspec-support (3.7.0)
+    rubocop (0.57.2)
+      jaro_winkler (~> 1.5.1)
+      parallel (~> 1.10)
+      parser (>= 2.5)
+      powerpack (~> 0.1)
+      rainbow (>= 2.2.2, < 4.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (~> 1.0, >= 1.0.1)
+    ruby-progressbar (1.9.0)
     safe_yaml (1.0.4)
     simplecov (0.15.1)
       docile (~> 1.1.0)
@@ -173,6 +188,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.5)
+    unicode-display_width (1.4.0)
     webmock (3.3.0)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
@@ -192,6 +208,7 @@ DEPENDENCIES
   rails (~> 5.2.0)
   rake
   rspec-rails (~> 3.7, >= 3.7.2)
+  rubocop (~> 0.57.2)
   simplecov (~> 0.15.1)
   webmock (~> 3.3, >= 3.3.0)
 
