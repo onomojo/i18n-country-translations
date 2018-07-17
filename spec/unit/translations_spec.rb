@@ -1,5 +1,5 @@
+# frozen_string_literal: true
 
-require 'pry'
 describe "single call" do
   it "translates correctly" do
     expect(I18n.t(:ES, :scope => :countries)).to eql "Spain"
@@ -12,7 +12,6 @@ Dir.glob('rails/locale/iso_639-1/*.yml') do |locale_file|
   next if locale_file == 'rails/locale/iso_639-1/rof.yml'
 
   describe locale_file do
-    binding.pry
     it_behaves_like "a valid locale file", locale_file
 
     context "file structure" do
