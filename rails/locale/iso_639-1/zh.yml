@@ -260,3 +260,36 @@ zh:
     ZA: 南非
     ZM: 赞比亚
     ZW: 津巴布韦
+  zones:
+    CN:
+      AH: 安徽
+      BJ: 北京
+      CQ: 重庆
+      FJ: 福建
+      GS: 甘肃
+      GD: 广东
+      GX: 广西
+      GZ: 贵州
+      HI: 海南
+      HE: 河北
+      HL: 黑龙江
+      HA: 河南
+      HB: 湖北
+      HN: 湖南
+      NM: 内蒙古
+      JS: 江苏
+      JX: 江西
+      JL: 吉林
+      LN: 辽宁
+      NX: 宁夏
+      QH: 青海
+      SN: 陕西
+      SD: 山东
+      SH: 上海
+      SX: 山西
+      SC: 四川
+      TJ: 天津
+      XJ: 新疆
+      YZ: 西藏
+      YN: 云南
+      ZJ: 浙江
