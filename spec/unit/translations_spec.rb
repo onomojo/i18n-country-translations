@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 describe "single call" do
   it "translates correctly" do
@@ -12,7 +13,6 @@ Dir.glob('rails/locale/iso_639-1/*.yml') do |locale_file|
 
   describe locale_file do
     it_behaves_like "a valid locale file", locale_file
-    it { is_expected.to be_a_subset_of "rails/locale/iso_639-1/en.yml" }
 
     context "file structure" do
       it "ensures correctness" do
