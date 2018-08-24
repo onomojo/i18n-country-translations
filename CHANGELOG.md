@@ -1,3 +1,7 @@
+## 1.3.1
+
+- Updated gemspec. Attribution change on license.
+
 ## 1.3.0
 
 - Removed country ZZ. Updating dependencies.
