@@ -1,3 +1,7 @@
+## 1.4.0
+
+- Adding Rails 6 support
+
 ## 1.3.1
 
 - Updated gemspec. Attribution change on license.
