@@ -1,24 +1,25 @@
 ---
 sq:
   countries:
-    AC: Ishulli Asenshion
+    AC: Ishulli Asension
     AD: Andorrë
     AE: Emiratet e Bashkuara Arabe
     AF: Afganistan
-    AG: Antigua e Barbuda
+    AG: Antigua & Barbuda
     AI: Anguilë
     AL: Shqipëri
     AM: Armeni
+    AN: Antilet Holandeze
     AO: Angolë
-    AQ: Antarktikë
+    AQ: Antarktidë
     AR: Argjentinë
     AS: Samoa Amerikane
     AT: Austri
     AU: Australi
     AW: Arubë
-    AX: Ishujt Alandë
+    AX: Ishujt Aland
     AZ: Azerbajxhan
-    BA: Bosnjë-Hercegovinë
+    BA: Bosnjë & Hercegovinë
     BB: Barbados
     BD: Bangladesh
     BE: Belgjikë
@@ -27,26 +28,26 @@ sq:
     BH: Bahrein
     BI: Burund
     BJ: Benin
-    BL: Shën Bartolemeo
-    BM: Bermudë
+    BL: Shën Bartolomeo
+    BM: Bermuda
     BN: Brunej
     BO: Bolivi
-    BQ: Karaibet holandeze
+    BQ: Karaibet Holandeze
     BR: Brazil
     BS: Bahamas
     BT: Butan
-    BV: Ishujt Bove
+    BV: Ishulli Buve
     BW: Botsvanë
     BY: Bjellorusi
-    BZ: Belizë
+    BZ: Belize
     CA: Kanada
-    CC: Ishujt Kokos
+    CC: Ishujt Kokos (Kiling)
     CD: Kongo-Kinshasa
     CF: Republika Afrikano-Qendrore
-    CG: Kongo-Brazavilë
+    CG: Kongo-Brazavil
     CH: Zvicër
     CI: Bregu i Fildishtë
-    CK: Ishujt Kukë
+    CK: Ishulli Kuk
     CL: Kili
     CM: Kamerun
     CN: Kinë
@@ -55,7 +56,7 @@ sq:
     CR: Kosta Rikë
     CU: Kubë
     CV: Kepi i Gjelbër
-    CW: Kuraçao
+    CW: Kurasao
     CX: Ishulli i Krishtlindjes
     CY: Qipro
     CZ: Republika Çeke
@@ -70,14 +71,14 @@ sq:
     EC: Ekuador
     EE: Estoni
     EG: Egjipt
-    EH: Saharaja Perëndimore
+    EH: Sahara Perëndimore
     ER: Eritre
     ES: Spanjë
     ET: Etiopi
     EU: Bashkimi Europian
     FI: Finlandë
     FJ: Fixhi
-    FK: Ishujt Folklandë
+    FK: Ishujt Folkland
     FM: Mikronezi
     FO: Ishujt Faroe
     FR: Francë
@@ -85,23 +86,23 @@ sq:
     GB: Mbretëria e Bashkuar
     GD: Grenadë
     GE: Gjeorgji
-    GF: Guajana Franceze
-    GG: Guernsej
-    GH: Ganë
+    GF: Guajana Frënge
+    GG: Gërnsi
+    GH: Gana
     GI: Gjibraltar
-    GL: Grenlandë
-    GM: Gambi
+    GL: Groenlandë
+    GM: Gambia
     GN: Guine
-    GP: Guadalupe
+    GP: Guadalup
     GQ: Guineja Ekuatoriale
     GR: Greqi
-    GS: Xhorxha Jugore dhe Ishujt Senduiç të Jugut
+    GS: Xhorxha Jugore dhe Ishujt Sanduiç të Jugut
     GT: Guatemalë
     GU: Guam
-    GW: Guine-Bisau
+    GW: Guinea-Bisau
     GY: Guajanë
-    HK: RVAK i Hong Kongut
-    HM: Ishulli Hërd dhe Ishujt Mekdonald
+    HK: RVA i Hong Kongut Kinë
+    HM: Ishujt Hërd & Mekdonald
     HN: Honduras
     HR: Kroaci
     HT: Haiti
@@ -110,32 +111,32 @@ sq:
     ID: Indonezi
     IE: Irlandë
     IL: Izrael
-    IM: Ishulli i Manit
+    IM: Ishulli i Robit
     IN: Indi
     IO: Territori Britanik i Oqeanit Indian
     IQ: Irak
     IR: Iran
     IS: Islandë
     IT: Itali
-    JE: Xhersej
+    JE: Xhërsi
     JM: Xhamajkë
     JO: Jordani
     JP: Japoni
     KE: Kenia
-    KG: Kirgistan
+    KG: Kirgizstan
     KH: Kamboxhia
-    KI: Qiribati
+    KI: Kiribati
     KM: Komore
     KN: Shën Kits e Nevis
     KP: Koreja e Veriut
     KR: Koreja e Jugut
     KW: Kuvajt
-    KY: Ishujt Kajmanë
+    KY: Ishujt Kajman
     KZ: Kazakistan
     LA: Laos
     LB: Liban
     LC: Shën Luçia
-    LI: Lihtënshtajn
+    LI: Lihtenshtein
     LK: Sri Lankë
     LR: Liberi
     LS: Lesoto
@@ -149,14 +150,14 @@ sq:
     ME: Mali i Zi
     MF: Shën Martin
     MG: Madagaskar
-    MH: Ishujt Marshallë
+    MH: Ishujt Marshall
     MK: Maqedoni
     ML: Mali
     MM: Mianmar (Burma)
     MN: Mongoli
-    MO: RVAK i Makaos
-    MP: Ishujt e Marianës Veriore
-    MQ: Martinik
+    MO: RVA i Makaos Kinë
+    MP: Ishujt Veriorë Mariana
+    MQ: Martinikë
     MR: Mauritani
     MS: Montserat
     MT: Maltë
@@ -169,7 +170,7 @@ sq:
     NA: Namibi
     NC: Kaledonia e Re
     NE: Niger
-    NF: Ishujt Norfolkë
+    NF: Ishujt Norfolk
     NG: Nigeri
     NI: Nikaragua
     NL: Holandë
@@ -177,54 +178,54 @@ sq:
     NP: Nepal
     NR: Nauru
     NU: Niue
-    NZ: Zelanda e Re
+    NZ: Zelandë e Re
     OM: Oman
     PA: Panama
     PE: Peru
-    PF: Polinezia Franceze
+    PF: Polinezia Frënge
     PG: Papua Guineja e Re
     PH: Filipine
     PK: Pakistan
     PL: Poloni
-    PM: Shën Peir dhe Mikuelon
-    PN: Ishujt Pitkernë
+    PM: Shën Pier dhe Mikëlon
+    PN: Ishujt Pitkern
     PR: Porto Riko
     PS: Territoret Palestineze
     PT: Portugali
     PW: Palau
     PY: Paraguai
     QA: Katar
-    QO: Oqeania e Largët (Lindja e Largët)
+    QO: Oqeania e Përtejme
     RE: Reunion
     RO: Rumani
     RS: Serbi
     RU: Rusi
     RW: Ruandë
-    SA: Arabia Saudite
-    SB: Ishujt Solomonë
-    SC: Sishel
+    SA: Arabi Saudite
+    SB: Ishujt Solomon
+    SC: Sejshelle
     SD: Sudan
     SE: Suedi
     SG: Singapor
     SH: Shën Helena
     SI: Slloveni
-    SJ: Svalbard e Zhan Majen
+    SJ: Svalbard & Zhan Majen
     SK: Sllovaki
-    SL: Siera Leone
+    SL: Sierra Leone
     SM: San Marino
-    SN: Senegali
+    SN: Senegal
     SO: Somali
-    SR: Surinami
-    SS: Sudani i Jugut
-    ST: Sao Tome e Prinsipe
+    SR: Surinam
+    SS: Sudan i Jugut
+    ST: Sao Tome & Prinsipe
     SV: El Salvador
-    SX: Shën Martin (Sint Maarten-pjesa e Mbretërisë së Holandës)
+    SX: Shën Martin
     SY: Siri
-    SZ: Svazilandë
+    SZ: Svaziland
     TA: Tristan da Kuna
-    TC: Ishujt Turke dhe Kaike
+    TC: Ishujt Turk & Kaikos
     TD: Çad
-    TF: Territoret Australiane Franceze
+    TF: Territoret Frënge Jugore
     TG: Togo
     TH: Tajlandë
     TJ: Taxhikistan
@@ -234,28 +235,28 @@ sq:
     TN: Tunizi
     TO: Tonga
     TR: Turqi
-    TT: Trinidad e Tobago
+    TT: Trinidad & Tobago
     TV: Tuvalu
     TW: Tajvan
     TZ: Tanzani
     UA: Ukrainë
     UG: Ugandë
-    UM: Ishujt periferikë të SHBA-së
+    UM: Ishujt e Përtejmë SHBA-së
     US: Shtetet e Bashkuara të Amerikës
     UY: Uruguai
     UZ: Uzbekistan
     VA: Vatikan
-    VC: Shën Vinsent dhe Grenadinet
+    VC: Shën Vinsent & Grenadinet
     VE: Venezuelë
     VG: Ishujt e Virgjër Britanikë
     VI: Ishujt e Virgjër Amerikanë
     VN: Vietnam
     VU: Vanuatu
-    WF: Uollis e Futina
+    WF: Uollis e Futuna
     WS: Samoa
     XK: Kosovë
     YE: Jemen
-    YT: Majotë
-    ZA: Afrika e Jugut
-    ZM: Zambi
+    YT: Majote
+    ZA: Afrikë e Jugut
+    ZM: Zambia
     ZW: Zimbabve
