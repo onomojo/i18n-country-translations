@@ -1,3 +1,7 @@
+## 1.4.1
+
+- Minor updates to pt, sq, and ja translations
+
 ## 1.4.0
 
 - Adding Rails 6 support
