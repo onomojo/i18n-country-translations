@@ -20,8 +20,8 @@ Gem::Specification.new do |s|
   s.platform     = Gem::Platform::RUBY
 
   s.add_dependency('i18n', '>= 0.9.3', '< 2')
-  s.add_runtime_dependency 'railties', '>= 5.0', '< 5.3'
-  s.add_development_dependency "rails", ">= 5.0", '< 5.3'
+  s.add_runtime_dependency 'railties', '>= 5.0'
+  s.add_development_dependency "rails", "~> 6"
   s.add_development_dependency 'rspec-rails', '~> 3.7', '>= 3.7.2'
   s.add_development_dependency 'i18n-spec', '~> 0.1', '>= 0.1.1'
   s.add_development_dependency 'nokogiri', '~> 1.8', '>= 1.8.1'
