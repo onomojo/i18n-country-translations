@@ -8,3 +8,4 @@ test/dummy/.sass-cache
 tmp/*
 coverage/
 rails/locale/**/*.yml.OLD
+.idea/
