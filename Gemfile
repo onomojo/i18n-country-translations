@@ -1,4 +1,8 @@
-ruby "2.6.3"
-source "http://rubygems.org"
+source "https://rubygems.org"
 
 gemspec
+
+if ENV['RAILS_VERSION']
+  gem 'rails', "~> #{ENV['RAILS_VERSION']}.0"
+end
+

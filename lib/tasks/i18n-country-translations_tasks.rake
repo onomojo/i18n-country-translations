@@ -10,12 +10,12 @@ require 'i18n_country_translations/import_two_letter_codes'
 
 namespace :import do
 
-  desc "Import country codes and names for various languages from the Unicode.org CLDR archive. Depends on Hpricot gem."
+  desc "Import country codes and names for various languages from the Unicode.org CLDR archive."
   task :country_translation do
     begin
       require 'nokogiri'
     rescue LoadError
-      puts "Error: Nokogiri library required to use this task (import:country_select)"
+      puts "Error: Nokogiri library required to use this task (import:country_translation)"
       exit
     end
 
