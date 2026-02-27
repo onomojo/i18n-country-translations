@@ -16,14 +16,15 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 3.1'
 
-  s.add_dependency('i18n', '>= 0.9.3', '< 3')
-  s.add_runtime_dependency 'railties', '>= 5.0'
-  s.add_development_dependency "rails", ">= 6.0"
-  s.add_development_dependency 'rspec-rails', '>= 4.0'
+  s.add_dependency 'i18n', '>= 0.9.3', '< 3'
+  s.add_dependency 'railties', '>= 7.2', '< 9'
+
+  s.add_development_dependency 'rails', '>= 7.2', '< 9'
+  s.add_development_dependency 'rspec-rails', '~> 8.0'
   s.add_development_dependency 'i18n-spec', '~> 0.1', '>= 0.1.1'
-  s.add_development_dependency 'nokogiri', '>= 1.13'
-  s.add_development_dependency 'webmock', '>= 3.14'
-  s.add_development_dependency "simplecov"
+  s.add_development_dependency 'nokogiri', '~> 1.13'
+  s.add_development_dependency 'webmock', '~> 3.14'
+  s.add_development_dependency 'simplecov', '~> 0.22'
 
   s.licenses = ['MIT', 'GPL-3.0']
 end
