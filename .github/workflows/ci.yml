@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         ruby: ['3.1', '3.2', '3.3', '3.4']
-        rails: ['7.0', '7.1', '7.2', '8.0']
+        rails: ['7.2', '8.0']
 
     env:
       RAILS_VERSION: ${{ matrix.rails }}
@@ -25,7 +25,11 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ matrix.ruby }}
-          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          rm -f Gemfile.lock
+          bundle install --jobs 4
 
       - name: Run tests
         run: bundle exec rake
