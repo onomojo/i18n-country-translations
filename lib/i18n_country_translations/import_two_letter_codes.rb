@@ -1,4 +1,5 @@
 require 'yaml'
+require 'uri'
 require 'open-uri'
 require 'nokogiri'
 # Imports ISO 639-1 country codes
@@ -23,7 +24,7 @@ module I18nCountryTranslations
       @locales.each_with_index do |locale, index|
         # ----- Get the CLDR HTML     --------------------------------------------------
         begin
-          doc = Nokogiri::HTML(open("http://www.unicode.org/cldr/charts/latest/summary/#{locale}.html"))
+          doc = Nokogiri::HTML(URI.open("http://www.unicode.org/cldr/charts/latest/summary/#{locale}.html"))
         rescue => e
           puts "[!] Invalid locale name '#{locale}'! Not found in CLDR (#{e})"
           return if index == @locales.length - 1
@@ -54,8 +55,7 @@ module I18nCountryTranslations
             result.update({ code.to_s => name.to_s })
           end
         end
-        # result.sort_by { |key, value| key }.to_h works in Ruby 2.x
-        Hash[result.sort_by { |key, value| key }]
+        result.sort_by { |key, _| key }.to_h
       end
 
       def present_locales
@@ -70,7 +70,7 @@ module I18nCountryTranslations
       def write_for(locale, output)
         puts "\n... writing the output"
         filename = File.join(@output_dir, "#{locale}.yml")
-        File.rename(filename, filename + ".OLD") if File.exists?(filename) # Rename by appending 'OLD' if file exists
+        File.rename(filename, filename + ".OLD") if File.exist?(filename) # Rename by appending 'OLD' if file exists
         File.open(filename, "w+") { |f| f << output.to_yaml }
         puts "\n---\nWritten values for the '#{locale}' into file: #{filename}\n"
       end

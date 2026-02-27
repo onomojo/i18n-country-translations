@@ -1,3 +1,14 @@
+## 2.0.0
+
+- Add support for Rails 7.x and 8.x
+- Add support for Ruby 3.1+
+- Migrate CI from Travis CI to GitHub Actions
+- Update minimum Ruby version to 3.1
+- Update i18n dependency to support i18n 2.x
+- Fix Ruby 3+ deprecations (URI.open, File.exist?)
+- Modernize gemspec and dependency ranges
+- Clean up code for modern Ruby idioms
+
 ## 1.4.1
 
 - Minor updates to pt, sq, and ja translations
