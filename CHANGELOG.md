@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Add zh-CN locale for compatibility with rails-i18n and apps using `I18n.locale = :'zh-CN'`
+
 ## 2.0.0
 
 - Add support for Rails 7.x and 8.x
