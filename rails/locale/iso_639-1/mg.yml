@@ -1,7 +1,7 @@
 ---
 mg:
   countries:
-    AC: AC
+    AC: Nosy Ascension
     AD: Andorra
     AE: Emirà Arabo mitambatra
     AF: Afghanistan
@@ -9,15 +9,14 @@ mg:
     AI: Anguilla
     AL: Albania
     AM: Armenia
-    AN: Vondronosy karaiba holandey
     AO: Angola
-    AQ: AQ
+    AQ: Antarktika
     AR: Arzantina
     AS: Samoa amerikanina
     AT: Aotrisy
     AU: Aostralia
     AW: Arobà
-    AX: AX
+    AX: Nosy Alandy
     AZ: Azerbaidjan
     BA: Bosnia sy Herzegovina
     BB: Barbady
@@ -28,20 +27,20 @@ mg:
     BH: Bahrain
     BI: Borondi
     BJ: Benin
-    BL: BL
+    BL: Saint-Barthélemy
     BM: Bermioda
     BN: Brunei
     BO: Bolivia
-    BQ: BQ
+    BQ: Karaiba Holandey
     BR: Brezila
     BS: Bahamas
     BT: Bhotana
-    BV: BV
+    BV: Nosy Bouvet
     BW: Botsoana
     BY: Belarosy
     BZ: Belize
     CA: Kanada
-    CC: CC
+    CC: Nosy Cocos
     CD: Repoblikan’i Kongo
     CF: Repoblika Ivon’Afrika
     CG: Kôngô
@@ -52,42 +51,42 @@ mg:
     CM: Kamerona
     CN: Sina
     CO: Kôlômbia
-    CP: CP
+    CP: Nosy Clipperton
     CR: Kosta Rikà
     CU: Kiobà
     CV: Nosy Cap-Vert
-    CW: CW
-    CX: CX
+    CW: Kirasao
+    CX: Nosy Krismasy
     CY: Sypra
     CZ: Repoblikan’i Tseky
     DE: Alemaina
-    DG: DG
+    DG: Diego Garcia
     DJ: Djiboti
     DK: Danmarka
     DM: Dominika
     DO: Repoblika Dominikanina
     DZ: Alzeria
-    EA: EA
+    EA: Ceuta sy Melilla
     EC: Ekoatera
     EE: Estonia
     EG: Ejypta
-    EH: EH
+    EH: Sahara Andrefana
     ER: Eritrea
     ES: Espaina
     ET: Ethiopia
-    EU: EU
+    EU: Vondrona Eoropeana
     FI: Finlandy
     FJ: Fidji
     FK: Nosy Falkand
     FM: Mikrônezia
-    FO: FO
+    FO: Nosy Faroe
     FR: Frantsa
     GA: Gabon
     GB: Angletera
     GD: Grenady
     GE: Zeorzia
     GF: Guyana frantsay
-    GG: GG
+    GG: Guernesey
     GH: Ghana
     GI: Zibraltara
     GL: Groenland
@@ -96,29 +95,29 @@ mg:
     GP: Goadelopy
     GQ: Guinea Ekoatera
     GR: Gresy
-    GS: GS
+    GS: Zeorzia Atsimo sy Nosy Sandwich Atsimo
     GT: Goatemalà
     GU: Guam
     GW: Giné-Bisao
     GY: Guyana
-    HK: HK
-    HM: HM
+    HK: Hong Kong
+    HM: Nosy Heard sy Nosy McDonald
     HN: Hondiorasy
     HR: Kroasia
     HT: Haiti
     HU: Hongria
-    IC: IC
+    IC: Nosy Kanaria
     ID: Indonezia
     IE: Irlandy
     IL: Israely
-    IM: IM
+    IM: Nosy Man
     IN: Indy
     IO: Faridranomasina indiana britanika
     IQ: Irak
     IR: Iran
     IS: Islandy
     IT: Italia
-    JE: JE
+    JE: Jersey
     JM: Jamaïka
     JO: Jordania
     JP: Japana
@@ -147,15 +146,15 @@ mg:
     MA: Marôka
     MC: Mônakô
     MD: Môldavia
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: Saint-Martin
     MG: Madagasikara
     MH: Nosy Marshall
     MK: Makedonia
     ML: Mali
     MM: Myanmar
     MN: Môngôlia
-    MO: MO
+    MO: Makao
     MP: Nosy Mariana Atsinanana
     MQ: Martinika
     MR: Maoritania
@@ -195,10 +194,10 @@ mg:
     PW: Palao
     PY: Paragoay
     QA: Katar
-    QO: QO
+    QO: Oseania ivelany
     RE: Larenion
     RO: Romania
-    RS: RS
+    RS: Serbia
     RU: Rosia
     RW: Roanda
     SA: Arabia saodita
@@ -209,23 +208,23 @@ mg:
     SG: Singaporo
     SH: Sainte-Hélène
     SI: Slovenia
-    SJ: SJ
+    SJ: Svalbard sy Jan Mayen
     SK: Slovakia
     SL: Sierra Leone
     SM: Saint-Marin
     SN: Senegal
     SO: Somalia
     SR: Sorinam
-    SS: SS
+    SS: Sodan Atsimo
     ST: São Tomé-et-Príncipe
     SV: El Salvador
-    SX: SX
+    SX: Sint Maarten
     SY: Syria
     SZ: Soazilandy
-    TA: TA
+    TA: Tristan da Cunha
     TC: Nosy Turks sy Caïques
     TD: Tsady
-    TF: TF
+    TF: Tany Atsimon'i Frantsa
     TG: Togo
     TH: Thailandy
     TJ: Tajikistan
@@ -241,7 +240,7 @@ mg:
     TZ: Tanzania
     UA: Okraina
     UG: Oganda
-    UM: UM
+    UM: Nosy madinika lavitra an'i Etazonia
     US: Etazonia
     UY: Orogoay
     UZ: Ozbekistan
@@ -254,7 +253,7 @@ mg:
     VU: Vanoatò
     WF: Wallis sy Futuna
     WS: Samoa
-    XK: XK
+    XK: Kosovo
     YE: Yemen
     YT: Mayôty
     ZA: Afrika Atsimo

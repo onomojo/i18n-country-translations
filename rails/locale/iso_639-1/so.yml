@@ -1,7 +1,7 @@
 ---
 so:
   countries:
-    AC: AC
+    AC: Jasiiradda Ascension
     AD: Andora
     AE: Imaaraadka Carabta ee Midoobay
     AF: Afgaanistaan
@@ -9,15 +9,14 @@ so:
     AI: Anguilla
     AL: Albaaniya
     AM: Armeeniya
-    AN: Netherlands Antilles
     AO: Angoola
-    AQ: AQ
+    AQ: Antaarktika
     AR: Arjantiin
     AS: Samowa Ameerika
     AT: Awsteriya
     AU: Awstaraaliya
     AW: Aruba
-    AX: AX
+    AX: Jasiiradaha Aaland
     AZ: Azerbajaan
     BA: Bosniya Hersigoviina
     BB: Baarbadoos
@@ -28,20 +27,20 @@ so:
     BH: Baxreyn
     BI: Burundi
     BJ: Biniin
-    BL: BL
+    BL: Saint Barthélemy
     BM: Bermuuda
     BN: Buruneeya
     BO: Boliifiya
-    BQ: BQ
+    BQ: Kariibiyaanka Nederlaan
     BR: Braasiil
     BS: Bahaamas
     BT: Bhutan
-    BV: BV
+    BV: Jasiiradda Bouvet
     BW: Botuswaana
     BY: Belarus
     BZ: Belize
     CA: Kanada
-    CC: CC
+    CC: Jasiiradaha Cocos
     CD: Jamhuuriyadda Dimuquraadiga Kongo
     CF: Jamhuuriyadda Afrikada Dhexe
     CG: Kongo
@@ -52,42 +51,42 @@ so:
     CM: Kaameruun
     CN: Shiinaha
     CO: Kolombiya
-    CP: CP
+    CP: Jasiiradda Clipperton
     CR: Kosta Riika
     CU: Kuuba
     CV: Cape Verde Islands
-    CW: CW
-    CX: CX
+    CW: Kurakaaw
+    CX: Jasiiradda Kirismas
     CY: Qubrus
     CZ: Jamhuuriyadda Jek
     DE: Jarmal
-    DG: DG
+    DG: Diego Garcia
     DJ: Jabuuti
     DK: Denmark
     DM: Domeenika
     DO: Jamhuuriyadda Domeenika
     DZ: Aljeeriya
-    EA: EA
+    EA: Ceuta iyo Melilla
     EC: Ikuwadoor
     EE: Estooniya
     EG: Masar
-    EH: EH
+    EH: Saxaraha Galbeed
     ER: Eretereeya
     ES: Isbeyn
     ET: Itoobiya
-    EU: EU
+    EU: Midowga Yurub
     FI: Finland
     FJ: Fiji
     FK: Jaziiradaha Fooklaan
     FM: Micronesia
-    FO: FO
+    FO: Jasiiradaha Faroe
     FR: Faransiis
     GA: Gaaboon
     GB: United Kingdom
     GD: Giriinaada
     GE: Joorjiya
     GF: French Guiana
-    GG: GG
+    GG: Guurnsey
     GH: Gaana
     GI: Gibraltar
     GL: Greenland
@@ -96,29 +95,29 @@ so:
     GP: Guadeloupe
     GQ: Equatorial Guinea
     GR: Giriig
-    GS: GS
+    GS: Joorjiyada Koonfureed iyo Jasiiradaha Sandwich-ka Koonfureed
     GT: Guwaatamaala
     GU: Guam
     GW: Gini-Bisaaw
     GY: Guyana
-    HK: HK
-    HM: HM
+    HK: Hong Kong
+    HM: Jasiiradda Heard iyo Jasiiradaha McDonald
     HN: Honduras
     HR: Korweeshiya
     HT: Hayti
     HU: Hangeri
-    IC: IC
+    IC: Jasiiradaha Kanari
     ID: Indoneesiya
     IE: Ayrlaand
     IL: Israaʼiil
-    IM: IM
+    IM: Jasiiradda Isle of Man
     IN: Hindiya
     IO: British Indian Ocean Territory
     IQ: Ciraaq
     IR: Iiraan
     IS: Iislaand
     IT: Talyaani
-    JE: JE
+    JE: Jeersey
     JM: Jameyka
     JO: Urdun
     JP: Jabaan
@@ -147,15 +146,15 @@ so:
     MA: Marooko
     MC: Moonako
     MD: Moldofa
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: Saint Martin
     MG: Madagaskar
     MH: Marshall Islands
     MK: Makadooniya
     ML: Maali
     MM: Myanmar
     MN: Mongooliya
-    MO: MO
+    MO: Makaaw
     MP: Northern Mariana Islands
     MQ: Martinique
     MR: Muritaaniya
@@ -195,10 +194,10 @@ so:
     PW: Palau
     PY: Paraguay
     QA: Qadar
-    QO: QO
+    QO: Ooshiyaaniya Ka Baxsan
     RE: Réunion
     RO: Rumaaniya
-    RS: RS
+    RS: Seerbiya
     RU: Ruush
     RW: Ruwanda
     SA: Sacuudi Carabiya
@@ -209,7 +208,7 @@ so:
     SG: Singaboor
     SH: Saint Helena
     SI: Slovenia
-    SJ: SJ
+    SJ: Svalbard iyo Jan Mayen
     SK: Slovakia
     SL: Siraaliyoon
     SM: San Marino
@@ -219,13 +218,13 @@ so:
     SS: Koonfur Suudaan
     ST: São Tomé and Príncipe
     SV: El Salvador
-    SX: SX
+    SX: Sint Maarten
     SY: Suuriya
     SZ: Iswaasilaand
-    TA: TA
+    TA: Tristan da Cunha
     TC: Turks and Caicos Islands
     TD: Jaad
-    TF: TF
+    TF: Dhulka Koonfureed ee Faransiiska
     TG: Toogo
     TH: Taylaand
     TJ: Tajikistan
@@ -241,7 +240,7 @@ so:
     TZ: Tansaaniya
     UA: Ukrayn
     UG: Ugaanda
-    UM: UM
+    UM: Jasiiradaha Yar ee Dibadda Maraykanka
     US: Maraykanka
     UY: Uruguwaay
     UZ: Uusbakistaan
@@ -254,7 +253,7 @@ so:
     VU: Vanuatu
     WF: Wallis and Futuna
     WS: Samoa
-    XK: XK
+    XK: Kosofo
     YE: Yaman
     YT: Mayotte
     ZA: Koonfur Afrika

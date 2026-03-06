@@ -1,7 +1,7 @@
 ---
 ha:
   countries:
-    AC: AC
+    AC: Tsibirin Asenshon
     AD: Andora
     AE: Haɗaɗɗiyar Daular Larabawa
     AF: Afaganistan
@@ -9,15 +9,14 @@ ha:
     AI: Angila
     AL: Albaniya
     AM: Armeniya
-    AN: Antiya Na Holan
     AO: Angola
-    AQ: AQ
+    AQ: Antarktika
     AR: Arjantiniya
     AS: Samowa Ta Amurka
     AT: Ostiriya
     AU: Ostareliya
     AW: Aruba
-    AX: AX
+    AX: Tsibiran Aland
     AZ: Azarbaijan
     BA: Bosniya Harzagobina
     BB: Barbadas
@@ -28,20 +27,20 @@ ha:
     BH: Baharan
     BI: Burundi
     BJ: Binin
-    BL: BL
+    BL: San Barthélemy
     BM: Barmuda
     BN: Burune
     BO: Bolibiya
-    BQ: BQ
+    BQ: Karibiyan Netherlands
     BR: Birazil
     BS: Bahamas
     BT: Butan
-    BV: BV
+    BV: Tsibirin Bouvet
     BW: Baswana
     BY: Belarus
     BZ: Beliz
     CA: Kanada
-    CC: CC
+    CC: Tsibiran Cocos
     CD: Jamhuriyar Dimokuraɗiyyar Kongo
     CF: Jamhuriyar Afirka Ta Tsakiya
     CG: Kongo
@@ -52,42 +51,42 @@ ha:
     CM: Kamaru
     CN: Caina, Sin
     CO: Kolambiya
-    CP: CP
+    CP: Tsibirin Clipperton
     CR: Kwasta Rika
     CU: Kyuba
     CV: Tsibiran Kap Barde
-    CW: CW
-    CX: CX
+    CW: Kurasao
+    CX: Tsibirin Kirsimati
     CY: Sifurus
     CZ: Jamhuriyar Cak
     DE: Jamus
-    DG: DG
+    DG: Diyego Garsiya
     DJ: Jibuti
     DK: Danmark
     DM: Dominika
     DO: Jamhuriyar Dominika
     DZ: Aljeriya
-    EA: EA
+    EA: Suta da Melilla
     EC: Ekwador
     EE: Estoniya
     EG: Masar, Misira
-    EH: EH
+    EH: Sahara ta Yamma
     ER: Eritireya
     ES: Sipen
     ET: Habasha
-    EU: EU
+    EU: Tarayyar Turai
     FI: Finlan
     FJ: Fiji
     FK: Tsibiran Falkilan
     FM: Mikuronesiya
-    FO: FO
+    FO: Tsibiran Faroe
     FR: Faransa
     GA: Gabon
     GB: Birtaniya
     GD: Girnada
     GE: Jiwarjiya
     GF: Gini Ta Faransa
-    GG: GG
+    GG: Guernsey
     GH: Gana
     GI: Jibaraltar
     GL: Grinlan
@@ -96,29 +95,29 @@ ha:
     GP: Gwadaluf
     GQ: Gini Ta Ikwaita
     GR: Girka
-    GS: GS
+    GS: Kudancin Jojiya da Tsibiran Kudancin Sandwich
     GT: Gwatamala
     GU: Gwam
     GW: Gini Bisau
     GY: Guyana
-    HK: HK
-    HM: HM
+    HK: Hong Kong
+    HM: Tsibirin Heard da McDonald
     HN: Honduras
     HR: Kurowaishiya
     HT: Haiti
     HU: Hungari
-    IC: IC
+    IC: Tsibiran Canary
     ID: Indunusiya
     IE: Ayalan
     IL: Iziraʼila
-    IM: IM
+    IM: Tsibirin Man
     IN: Indiya
     IO: Yankin Birtaniya Na Tekun Indiya
     IQ: Iraƙi
     IR: Iran
     IS: Aisalan
     IT: Italiya
-    JE: JE
+    JE: Jersey
     JM: Jamaika
     JO: Jordan
     JP: Japan
@@ -147,15 +146,15 @@ ha:
     MA: Maroko
     MC: Monako
     MD: Maldoba
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: San Martin
     MG: Madagaskar
     MH: Tsibiran Marshal
     MK: Masedoniya
     ML: Mali
     MM: Burma, Miyamar
     MN: Mangoliya
-    MO: MO
+    MO: Makao
     MP: Tsibiran Mariyana Na Arewa
     MQ: Martinik
     MR: Moritaniya
@@ -195,10 +194,10 @@ ha:
     PW: Palau
     PY: Paragai
     QA: Kwatar
-    QO: QO
+    QO: Yankin Osheniya Na Waje
     RE: Rawuniyan
     RO: Romaniya
-    RS: RS
+    RS: Sabiya
     RU: Rasha
     RW: Ruwanda
     SA: Ƙasar Makka
@@ -209,23 +208,23 @@ ha:
     SG: Singapur
     SH: San Helena
     SI: Sulobeniya
-    SJ: SJ
+    SJ: Svalbard da Jan Mayen
     SK: Sulobakiya
     SL: Salewo
     SM: San Marino
     SN: Sinigal
     SO: Somaliya
     SR: Suriname
-    SS: SS
+    SS: Sudan Ta Kudu
     ST: Sawo Tome Da Paransip
     SV: El Salbador
-    SX: SX
+    SX: Sint Maarten
     SY: Sham, Siriya
     SZ: Suwazilan
-    TA: TA
+    TA: Tristan da Kunha
     TC: Turkis Da Tsibiran Kaikwas
     TD: Cadi
-    TF: TF
+    TF: Yankin Kudancin Faransa
     TG: Togo
     TH: Tailan
     TJ: Tajikistan
@@ -241,7 +240,7 @@ ha:
     TZ: Tanzaniya
     UA: Yukaran
     UG: Yuganda
-    UM: UM
+    UM: Tsibiran Amurka Na Waje
     US: Amurka
     UY: Yurugai
     UZ: Uzubekistan
@@ -254,7 +253,7 @@ ha:
     VU: Banuwatu
     WF: Walis Da Futuna
     WS: Samowa
-    XK: XK
+    XK: Kosovo
     YE: Yamal
     YT: Mayoti
     ZA: Afirka Ta Kudu

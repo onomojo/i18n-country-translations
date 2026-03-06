@@ -1,7 +1,7 @@
 ---
 ki:
   countries:
-    AC: AC
+    AC: Kisiwa cha Asensheni
     AD: Andora
     AE: Falme za Kiarabu
     AF: Afuganistani
@@ -9,15 +9,14 @@ ki:
     AI: Anguilla
     AL: Albania
     AM: Armenia
-    AN: Antili za Uholanzi
     AO: Angola
-    AQ: AQ
+    AQ: Antaktika
     AR: Ajentina
     AS: Samoa ya Marekani
     AT: Austria
     AU: Australia
     AW: Aruba
-    AX: AX
+    AX: Visiwa vya Alandi
     AZ: Azabajani
     BA: Bosnia na Hezegovina
     BB: Babadosi
@@ -28,20 +27,20 @@ ki:
     BH: Bahareni
     BI: Mburundi
     BJ: Benini
-    BL: BL
+    BL: Santabathelemi
     BM: Bermuda
     BN: Brunei
     BO: Bolivia
-    BQ: BQ
+    BQ: Karibiani ya Uholanzi
     BR: Brazili
     BS: Bahama
     BT: Butani
-    BV: BV
+    BV: Kisiwa cha Bouvet
     BW: Botswana
     BY: Belarusi
     BZ: Belize
     CA: Kanada
-    CC: CC
+    CC: Visiwa vya Kokos
     CD: Jamhuri ya Kidemokrasia ya Kongo
     CF: Jamhuri ya Afrika ya Kati
     CG: Kongo
@@ -52,42 +51,42 @@ ki:
     CM: Kameruni
     CN: Caina
     CO: Kolombia
-    CP: CP
+    CP: Kisiwa cha Clipperton
     CR: Kostarika
     CU: Kiumba
     CV: Kepuvede
-    CW: CW
-    CX: CX
+    CW: Kurakao
+    CX: Kisiwa cha Krisimasi
     CY: Kuprosi
     CZ: Jamhuri ya Cheki
     DE: Njeremani
-    DG: DG
+    DG: Diego Garsia
     DJ: Jibuti
     DK: Denmaki
     DM: Dominika
     DO: Jamhuri ya Dominika
     DZ: Aljeria
-    EA: EA
+    EA: Ceuta na Melilla
     EC: Ekwado
     EE: Estonia
     EG: Misri
-    EH: EH
+    EH: Sahara Magharibi
     ER: Eritrea
     ES: Hispania
     ET: Uhabeshi
-    EU: EU
+    EU: Umoja wa Ulaya
     FI: Ufini
     FJ: Fiji
     FK: Visiwa vya Falkland
     FM: Mikronesia
-    FO: FO
+    FO: Visiwa vya Faroe
     FR: Ubaranja
     GA: Gaboni
     GB: Ngeretha
     GD: Grenada
     GE: Jojia
     GF: Gwiyana ya Ufaransa
-    GG: GG
+    GG: Guernsei
     GH: Ngana
     GI: Jibralta
     GL: Grinlandi
@@ -96,29 +95,29 @@ ki:
     GP: Gwadelupe
     GQ: Ginekweta
     GR: Ugiriki
-    GS: GS
+    GS: Jojia Kusini na Visiwa vya Sandwich Kusini
     GT: Gwatemala
     GU: Gwam
     GW: Ginebisau
     GY: Guyana
-    HK: HK
-    HM: HM
+    HK: Hong Kongu
+    HM: Kisiwa cha Heard na Visiwa vya McDonald
     HN: Hondurasi
     HR: Korasia
     HT: Haiti
     HU: Hungaria
-    IC: IC
+    IC: Visiwa vya Kanari
     ID: Indonesia
     IE: Ayalandi
     IL: Israeli
-    IM: IM
+    IM: Kisiwa cha Man
     IN: India
     IO: Eneo la Uingereza katika Bahari Hindi
     IQ: Iraki
     IR: Uajemi
     IS: Aislandi
     IT: Italia
-    JE: JE
+    JE: Jersei
     JM: Jamaika
     JO: Njorondani
     JP: Njabani
@@ -147,15 +146,15 @@ ki:
     MA: Moroko
     MC: Monako
     MD: Moldova
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: Santamartini
     MG: Bukini
     MH: Visiwa vya Marshal
     MK: Masedonia
     ML: Mali
     MM: Myama
     MN: Mongolia
-    MO: MO
+    MO: Makao
     MP: Visiwa vya Mariana vya Kaskazini
     MQ: Martiniki
     MR: Moritania
@@ -195,10 +194,10 @@ ki:
     PW: Palau
     PY: Paragwai
     QA: Katari
-    QO: QO
+    QO: Osheania ya Nje
     RE: Riyunioni
     RO: Romania
-    RS: RS
+    RS: Serbia
     RU: Urusi
     RW: Rwanda
     SA: Saudi
@@ -209,23 +208,23 @@ ki:
     SG: Singapoo
     SH: Santahelena
     SI: Slovenia
-    SJ: SJ
+    SJ: Svalbard na Jan Mayen
     SK: Slovakia
     SL: Siera Leoni
     SM: Samarino
     SN: Senegali
     SO: Somaria
     SR: Surinamu
-    SS: SS
+    SS: Sudani Kusini
     ST: Sao Tome na Principe
     SV: Elsavado
-    SX: SX
+    SX: Sint Maarten
     SY: Siria
     SZ: Uswazi
-    TA: TA
+    TA: Tristan da Kunha
     TC: Visiwa vya Turki na Kaiko
     TD: Chadi
-    TF: TF
+    TF: Maeneo ya Kusini ya Ufaransa
     TG: Togo
     TH: Tailandi
     TJ: Tajikistani
@@ -241,7 +240,7 @@ ki:
     TZ: Tanzania
     UA: Ukraini
     UG: Uganda
-    UM: UM
+    UM: Visiwa Vidogo vya Nje vya Marekani
     US: Amerika
     UY: Urugwai
     UZ: Uzibekistani
@@ -254,7 +253,7 @@ ki:
     VU: Vanuatu
     WF: Walis na Futuna
     WS: Samoa
-    XK: XK
+    XK: Kosovo
     YE: Yemeni
     YT: Mayotte
     ZA: Afrika Kusini

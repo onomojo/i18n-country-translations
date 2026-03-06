@@ -1,7 +1,7 @@
 ---
 sg:
   countries:
-    AC: AC
+    AC: Zûâ Ascension
     AD: Andôro
     AE: Arâbo Emirâti Ôko
     AF: Faganïta, Afganïstäan
@@ -9,15 +9,14 @@ sg:
     AI: Angûîla
     AL: Albanïi
     AM: Armenïi
-    AN: Antîyi tî Holânde
     AO: Angoläa
-    AQ: AQ
+    AQ: Antarktîka
     AR: Arzantîna
     AS: Samöa tî Amerîka
     AT: Otrîsi
     AU: Ostralïi, Sotralïi
     AW: Arûba
-    AX: AX
+    AX: Âzûâ Åland
     AZ: Zerebaidyäan, Azerbaidyäan,
     BA: Bosnïi na Herzegovînni
     BB: Barabâda
@@ -28,20 +27,20 @@ sg:
     BH: Bahrâina
     BI: Burundïi
     BJ: Benëen
-    BL: BL
+    BL: Sên-Bartelëmi
     BM: Beremûda
     BN: Brunêi
     BO: Bolivïi
-    BQ: BQ
+    BQ: Holände tî Karaîbe
     BR: Brezîli
     BS: Bahâmasa
     BT: Butäan
-    BV: BV
+    BV: Zûâ Bouvet
     BW: Botswana
     BY: Belarüsi
     BZ: Belîzi
     CA: Kanadäa
-    CC: CC
+    CC: Âzûâ tî Côco
     CD: Ködörösêse tî Ngunuhalëzo tî kongö
     CF: Ködörösêse tî Bêafrîka
     CG: Kongö
@@ -52,42 +51,42 @@ sg:
     CM: Kamerûne
     CN: Shîna
     CO: Kolombïi
-    CP: CP
+    CP: Zûâ Clipperton
     CR: Kôsta Rîka
     CU: Kubäa
     CV: Azûâ tî Kâpo-Vêre
-    CW: CW
-    CX: CX
+    CW: Kurasao
+    CX: Zûâ Noêli
     CY: Sîpri
     CZ: Ködörösêse tî Tyêki
     DE: Zâmani
-    DG: DG
+    DG: Diego Garciäa
     DJ: Dibutùii
     DK: Danemêrke
     DM: Dömïnîka
     DO: Ködörösêse tî Dominîka
     DZ: Alzerïi
-    EA: EA
+    EA: Ceuta na Melilla
     EC: Ekuatëre
     EE: Estonïi
     EG: Kâmitâ
-    EH: EH
+    EH: Sahära tî Tö
     ER: Eritrëe
     ES: Espânye
     ET: Etiopïi
-    EU: EU
+    EU: Ködörö-Loss tî Eurôpo
     FI: Fëlânde
     FJ: Fidyïi
     FK: Âzûâ tî Mälüîni
     FM: Mikronezïi
-    FO: FO
+    FO: Âzûâ Färöe
     FR: Farânzi
     GA: Gaböon
     GB: Ködörögbïä--Ôko
     GD: Grenâda
     GE: Zorzïi
     GF: Güyâni tî farânzi
-    GG: GG
+    GG: Guernesëe
     GH: Ganäa
     GI: Zibraltära, Zibaratära
     GL: Gorolânde
@@ -96,29 +95,29 @@ sg:
     GP: Guadelûpu
     GQ: Ginëe tî Ekuatëre
     GR: Gerêsi
-    GS: GS
+    GS: Zorzïi tî Mbongo na Âzûâ Sandwich tî Mbongo
     GT: Guatêmälä
     GU: Guâm
     GW: Gninëe-Bisau
     GY: Gayâna
-    HK: HK
-    HM: HM
+    HK: Höng Köng
+    HM: Zûâ Heard na Âzûâ McDonald
     HN: Honduräsi
     HR: Kroasïi
     HT: Haitïi
     HU: Hongirùii
-    IC: IC
+    IC: Âzûâ Kanarïi
     ID: Ênndonezïi
     IE: Irlânde
     IL: Israëli
-    IM: IM
+    IM: Zûâ tî Man
     IN: Ênnde
     IO: Sêse tî Anglëe na Ngûyämä tî Ênnde
     IQ: Irâki
     IR: Iräan
     IS: Islânde
     IT: Italùii
-    JE: JE
+    JE: Zeresëe
     JM: Zamaîka
     JO: Zordanïi
     JP: Zapöon
@@ -147,15 +146,15 @@ sg:
     MA: Marôko
     MC: Monaköo
     MD: Moldavùii
-    ME: ME
-    MF: MF
+    ME: Möntenegro
+    MF: Sên-Martëen
     MG: Madagaskära
     MH: Âzûâ Märshâl
     MK: Maseduäni
     ML: Malïi
     MM: Myämâra
     MN: Mongolïi
-    MO: MO
+    MO: Makaö
     MP: Âzûâ Märïâni tî Banga
     MQ: Märtïnîki
     MR: Moritanïi
@@ -195,10 +194,10 @@ sg:
     PW: Palau
     PY: Paraguëe
     QA: Katära
-    QO: QO
+    QO: Oseanïi tî Lîndâ
     RE: Reinïon
     RO: Rumanïi
-    RS: RS
+    RS: Serbïi
     RU: Rusïi
     RW: Ruandäa
     SA: Saûdi Arabïi
@@ -209,7 +208,7 @@ sg:
     SG: Sïngäpûru
     SH: Sênt-Helêna
     SI: Solovenïi
-    SJ: SJ
+    SJ: Svalbârd na Jan Mayen
     SK: Solovakïi
     SL: Sierä-Leône
     SM: Sên-Marëen
@@ -219,13 +218,13 @@ sg:
     SS: Sudäan-Mbongo
     ST: Sâô Tömê na Prinsîpe
     SV: Salvadöro
-    SX: SX
+    SX: Sint Maarten
     SY: Sirïi
     SZ: Swäzïlânde
-    TA: TA
+    TA: Tristan da Cunha
     TC: Âzûâ Turku na Kaîki
     TD: Tyâde
-    TF: TF
+    TF: Sêse tî Farânzi tî Mbongo
     TG: Togö
     TH: Tailânde
     TJ: Taazikiistäan
@@ -241,7 +240,7 @@ sg:
     TZ: Tanzanïi
     UA: Ukrêni
     UG: Ugandäa
-    UM: UM
+    UM: Âzûâ Lîndâ tî Amerîka
     US: ÂLeaa-Ôko tî Amerika
     UY: Uruguëe
     UZ: Uzbekistäan
@@ -254,7 +253,7 @@ sg:
     VU: Vanuatü
     WF: Walîsi na Futuna
     WS: Samoäa
-    XK: XK
+    XK: Kosovö
     YE: Yëmêni
     YT: Mäyôte
     ZA: Mbongo-Afrîka

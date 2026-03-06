@@ -1,7 +1,7 @@
 ---
 rn:
   countries:
-    AC: AC
+    AC: Izinga rya Asensiyo
     AD: Andora
     AE: Leta Zunze Ubumwe z’Abarabu
     AF: Afuganisitani
@@ -9,15 +9,14 @@ rn:
     AI: Angwila
     AL: Alubaniya
     AM: Arumeniya
-    AN: Antiye y’Abaholandi
     AO: Angola
-    AQ: AQ
+    AQ: Antaritika
     AR: Arijantine
     AS: Samowa nyamerika
     AT: Otirishe
     AU: Ositaraliya
     AW: Aruba
-    AX: AX
+    AX: Amazinga ya Alandi
     AZ: Azerubayijani
     BA: Bosiniya na Herigozevine
     BB: Barubadosi
@@ -28,20 +27,20 @@ rn:
     BH: Bahareyini
     BI: Uburundi
     BJ: Bene
-    BL: BL
+    BL: Sante Baruteremyi
     BM: Berimuda
     BN: Buruneyi
     BO: Boliviya
-    BQ: BQ
+    BQ: Karayibe y'Ubuholandi
     BR: Burezili
     BS: Bahamasi
     BT: Butani
-    BV: BV
+    BV: Izinga rya Buve
     BW: Botswana
     BY: Belausi
     BZ: Belize
     CA: Kanada
-    CC: CC
+    CC: Amazinga ya Kokosi
     CD: Repubulika Iharanira Demokarasi ya Kongo
     CF: Repubulika ya Santarafurika
     CG: Kongo
@@ -52,42 +51,42 @@ rn:
     CM: Kameruni
     CN: Ubushinwa
     CO: Kolombiya
-    CP: CP
+    CP: Izinga rya Klipertoni
     CR: Kositarika
     CU: Kiba
     CV: Ibirwa bya Kapuveri
-    CW: CW
-    CX: CX
+    CW: Kurasawu
+    CX: Izinga rya Kirisimasi
     CY: Izinga rya Shipure
     CZ: Repubulika ya Ceke
     DE: Ubudage
-    DG: DG
+    DG: Diego Garisiya
     DJ: Jibuti
     DK: Danimariki
     DM: Dominika
     DO: Repubulika ya Dominika
     DZ: Alijeriya
-    EA: EA
+    EA: Seyuta na Melila
     EC: Ekwateri
     EE: Esitoniya
     EG: Misiri
-    EH: EH
+    EH: Sahara y'uburengerazuba
     ER: Elitereya
     ES: Hisipaniya
     ET: Etiyopiya
-    EU: EU
+    EU: Umuryango w'Ubulaya
     FI: Finilandi
     FJ: Fiji
     FK: Izinga rya Filikilandi
     FM: Mikoroniziya
-    FO: FO
+    FO: Amazinga ya Farowe
     FR: Ubufaransa
     GA: Gabo
     GB: Ubwongereza
     GD: Gerenada
     GE: Jeworujiya
     GF: Gwayana y’Abafaransa
-    GG: GG
+    GG: Gwerneze
     GH: Gana
     GI: Juburalitari
     GL: Gurunilandi
@@ -96,29 +95,29 @@ rn:
     GP: Gwadelupe
     GQ: Gineya Ekwatoriyali
     GR: Ubugereki
-    GS: GS
+    GS: Jeworujiya y'amajepfo n'Amazinga ya Sanduwici y'amajepfo
     GT: Gwatemala
     GU: Gwamu
     GW: Gineya Bisawu
     GY: Guyane
-    HK: HK
-    HM: HM
+    HK: Hongi Kongi
+    HM: Izinga rya Herdi n'Amazinga ya Makidonalde
     HN: Hondurasi
     HR: Korowasiya
     HT: Hayiti
     HU: Hungariya
-    IC: IC
+    IC: Amazinga ya Kanari
     ID: Indoneziya
     IE: Irilandi
     IL: Isiraheli
-    IM: IM
+    IM: Izinga rya Mani
     IN: Ubuhindi
     IO: Intara y’Ubwongereza yo mu birwa by’Abahindi
     IQ: Iraki
     IR: Irani
     IS: Ayisilandi
     IT: Ubutaliyani
-    JE: JE
+    JE: Jeruze
     JM: Jamayika
     JO: Yorudaniya
     JP: Ubuyapani
@@ -147,15 +146,15 @@ rn:
     MA: Maroke
     MC: Monako
     MD: Moludavi
-    ME: ME
-    MF: MF
+    ME: Montenegoro
+    MF: Sante Maritini
     MG: Madagasikari
     MH: Izinga rya Marishari
     MK: Masedoniya
     ML: Mali
     MM: Birimaniya
     MN: Mongoliya
-    MO: MO
+    MO: Makawu
     MP: Amazinga ya Mariyana ryo mu majaruguru
     MQ: Maritiniki
     MR: Moritaniya
@@ -195,10 +194,10 @@ rn:
     PW: Palawu
     PY: Paragwe
     QA: Katari
-    QO: QO
+    QO: Oseyani y'inyuma
     RE: Amazinga ya Reyiniyo
     RO: Rumaniya
-    RS: RS
+    RS: Seribiya
     RU: Uburusiya
     RW: u Rwanda
     SA: Arabiya Sawudite
@@ -209,23 +208,23 @@ rn:
     SG: Singapuru
     SH: Sehelene
     SI: Siloveniya
-    SJ: SJ
+    SJ: Sivalubadi na Yani Mayeni
     SK: Silovakiya
     SL: Siyeralewone
     SM: Sanimarino
     SN: Senegali
     SO: Somaliya
     SR: Suriname
-    SS: SS
+    SS: Sudani y'amajepfo
     ST: Sawotome na Perensipe
     SV: Eli Saluvatori
-    SX: SX
+    SX: Sinte Marateni
     SY: Siriya
     SZ: Suwazilandi
-    TA: TA
+    TA: Turisitani da Kuniya
     TC: Amazinga ya Turkisi na Cayikosi
     TD: Cadi
-    TF: TF
+    TF: Intara z'Ubufaransa zo mu majepfo
     TG: Togo
     TH: Tayilandi
     TJ: Tajikisitani
@@ -241,7 +240,7 @@ rn:
     TZ: Tanzaniya
     UA: Ikerene
     UG: Ubugande
-    UM: UM
+    UM: Amazinga mato mato y'Amerika yo hanze
     US: Leta Zunze Ubumwe za Amerika
     UY: Irigwe
     UZ: Uzubekisitani
@@ -254,7 +253,7 @@ rn:
     VU: Vanuwatu
     WF: Walisi na Futuna
     WS: Samowa
-    XK: XK
+    XK: Kosovo
     YE: Yemeni
     YT: Mayote
     ZA: Afurika y’Epfo

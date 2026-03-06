@@ -1,7 +1,7 @@
 ---
 lu:
   countries:
-    AC: AC
+    AC: Lutanda lua Kusenda
     AD: Andore
     AE: Lemila alabu
     AF: Afuganisita
@@ -9,15 +9,14 @@ lu:
     AI: Angiye
     AL: Alubani
     AM: Ameni
-    AN: Antiye wa Olande
     AO: Angola
-    AQ: AQ
+    AQ: Antaritiki
     AR: Alijantine
     AS: Samoa wa Ameriki
     AT: Otilisi
     AU: Ositali
     AW: Aruba
-    AX: AX
+    AX: Lutanda lua Alande
     AZ: Ajelbayidja
     BA: Mbosini ne Hezegovine
     BB: Barebade
@@ -28,20 +27,20 @@ lu:
     BH: Bahrene
     BI: Burundi
     BJ: Bene
-    BL: BL
+    BL: Santu Bartelemi
     BM: Bermuda
     BN: Brineyi
     BO: Mbolivi
-    BQ: BQ
+    BQ: Karibe wa Olandɛ
     BR: Mnulezile
     BS: Bahamase
     BT: Butani
-    BV: BV
+    BV: Lutanda lua Buve
     BW: Mbotswana
     BY: Byelorisi
     BZ: Belize
     CA: Kanada
-    CC: CC
+    CC: Lutanda lua Kokosi
     CD: Ditunga wa Kongu
     CF: Ditunga dya Afrika wa munkatshi
     CG: Kongu
@@ -52,42 +51,42 @@ lu:
     CM: Kamerune
     CN: Shine
     CO: Kolombi
-    CP: CP
+    CP: Lutanda lua Klipertone
     CR: Kositarika
     CU: Kuba
     CV: Lutanda lua Kapevele
-    CW: CW
-    CX: CX
+    CW: Kurasao
+    CX: Lutanda lua Kristmase
     CY: Shipele
     CZ: Ditunga dya Tsheka
     DE: Alemanu
-    DG: DG
+    DG: Diego Garisiya
     DJ: Djibuti
     DK: Danemalaku
     DM: Duminiku
     DO: Ditunga wa Duminiku
     DZ: Alijeri
-    EA: EA
+    EA: Seuta ne Melila
     EC: Ekwatele
     EE: Esitoni
     EG: Mushidi
-    EH: EH
+    EH: Sahara wa ku dìsangu
     ER: Elitele
     ES: Nsipani
     ET: Etshiopi
-    EU: EU
+    EU: Inyu wa Lupa
     FI: Filande
     FJ: Fuji
     FK: Lutanda lua Maluni
     FM: Mikronezi
-    FO: FO
+    FO: Lutanda lua Faloe
     FR: Nfalanse
     GA: Ngabu
     GB: Angeletele
     GD: Ngelenade
     GE: Joriji
     GF: Giyane wa Nfalanse
-    GG: GG
+    GG: Geneze
     GH: Ngana
     GI: Jibeletale
     GL: Ngowelande
@@ -96,29 +95,29 @@ lu:
     GP: Ngwadelupe
     GQ: Gine Ekwatele
     GR: Ngeleka
-    GS: GS
+    GS: Joriji wa mwinshi ne Lutanda lua Sandwishi wa mwinshi
     GT: Ngwatemala
     GU: Ngwame
     GW: Nginebisau
     GY: Ngiyane
-    HK: HK
-    HM: HM
+    HK: Hongi Kongi
+    HM: Lutanda lua Headi ne Makidonalde
     HN: Ondurase
     HR: Krowasi
     HT: Ayiti
     HU: Ongili
-    IC: IC
+    IC: Lutanda lua Kanari
     ID: Indonezi
     IE: Irelande
     IL: Isirayele
-    IM: IM
+    IM: Lutanda lua Mane
     IN: Inde
     IO: Lutanda lwa Angeletele ku mbu wa Indiya
     IQ: Iraki
     IR: Ira
     IS: Isilande
     IT: Itali
-    JE: JE
+    JE: Jereze
     JM: Jamaiki
     JO: Jodani
     JP: Japu
@@ -147,15 +146,15 @@ lu:
     MA: Maroke
     MC: Monaku
     MD: Molidavi
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: Santu Martine
     MG: Madagasikari
     MH: Lutanda lua Marishale
     MK: Masedwane
     ML: Mali
     MM: Myamare
     MN: Mongoli
-    MO: MO
+    MO: Makau
     MP: Lutanda lua Mariane wa muulu
     MQ: Martiniki
     MR: Moritani
@@ -195,10 +194,10 @@ lu:
     PW: Palau
     PY: Palagwei
     QA: Katari
-    QO: QO
+    QO: Oseyani wa kule
     RE: Lenyo
     RO: Romani
-    RS: RS
+    RS: Serbi
     RU: Risi
     RW: Rwanda
     SA: Alabu Nsawudi
@@ -209,23 +208,23 @@ lu:
     SG: Singapure
     SH: Santu eleni
     SI: Siloveni
-    SJ: SJ
+    SJ: Suvalbarde ne Jane Mayene
     SK: Silovaki
     SL: Siera Leone
     SM: Santu Marine
     SN: Senegale
     SO: Somali
     SR: Suriname
-    SS: SS
+    SS: Suda wa mwinshi
     ST: Sao Tome ne Presipɛ
     SV: Savadore
-    SX: SX
+    SX: Santu Martena
     SY: Siri
     SZ: Swazilandi
-    TA: TA
+    TA: Tulistanu da Kunya
     TC: Lutanda lua Tuluki ne Kaiko
     TD: Tshadi
-    TF: TF
+    TF: Lutanda lwa Nfalanse wa mwinshi
     TG: Togu
     TH: Tayilanda
     TJ: Tazikisita
@@ -241,7 +240,7 @@ lu:
     TZ: Tanzani
     UA: Ukreni
     UG: Uganda
-    UM: UM
+    UM: Lutanda lua Ameriki lwa kule
     US: Ameriki
     UY: Irigwei
     UZ: Uzibekisita
@@ -254,7 +253,7 @@ lu:
     VU: Vanuatu
     WF: Walise ne Futuna
     WS: Samoa
-    XK: XK
+    XK: Kosovo
     YE: Yemenu
     YT: Mayote
     ZA: Afrika ya Súdi

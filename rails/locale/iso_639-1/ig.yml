@@ -1,261 +1,261 @@
 ---
 ig:
   countries:
-    AC: AC
-    AD: AD
-    AE: AE
-    AF: AF
-    AG: AG
-    AI: AI
-    AL: AL
-    AM: AM
-    AO: AO
-    AQ: AQ
-    AR: AR
-    AS: AS
-    AT: AT
-    AU: AU
-    AW: AW
-    AX: AX
-    AZ: AZ
-    BA: BA
-    BB: BB
-    BD: BD
-    BE: BE
-    BF: BF
-    BG: BG
-    BH: BH
-    BI: BI
+    AC: Ascension Island
+    AD: Andọra
+    AE: Etiti Emịrate Arab
+    AF: Afganistan
+    AG: Antigụa na Barbụda
+    AI: Anguịla
+    AL: Albania
+    AM: Armenia
+    AO: Angola
+    AQ: Antarktịka
+    AR: Ajentina
+    AS: Samọa Amerịka
+    AT: Ọstrịa
+    AU: Ọstrelịa
+    AW: Arụba
+    AX: Agwaetiti Åland
+    AZ: Azerbaịjan
+    BA: Bọsnịa na Herzegọvina
+    BB: Barbadọs
+    BD: Bangladeshị
+    BE: Belgịọm
+    BF: Bọkino Faso
+    BG: Bọlgarịa
+    BH: Bahraịn
+    BI: Burụndị
     BJ: Binin
-    BL: BL
+    BL: Seịnt Barthélemy
     BM: Bemuda
-    BN: BN
-    BO: BO
-    BQ: BQ
-    BR: BR
-    BS: BS
-    BT: BT
-    BV: BV
-    BW: BW
-    BY: BY
-    BZ: BZ
-    CA: CA
-    CC: CC
-    CD: CD
-    CF: CF
-    CG: CG
-    CH: CH
-    CI: CI
-    CK: CK
-    CL: CL
-    CM: CM
+    BN: Brụneị
+    BO: Bọlivịa
+    BQ: Karibịan Netherlands
+    BR: Brazịl
+    BS: Bahamaas
+    BT: Bụtan
+    BV: Agwaetiti Bouvet
+    BW: Bọtswana
+    BY: Belarụs
+    BZ: Belịze
+    CA: Kanada
+    CC: Agwaetiti Cocos (Keeling)
+    CD: Kọngọ - Kinshasa
+    CF: Repụblịk Etiti Afrịka
+    CG: Kọngọ - Brazavịlle
+    CH: Swịzaland
+    CI: Côte d'Ivoire
+    CK: Agwaetiti Cook
+    CL: Chịle
+    CM: Kamerụn
     CN: Chaina
-    CO: CO
-    CP: CP
-    CR: CR
-    CU: CU
-    CV: CV
-    CW: CW
-    CX: CX
-    CY: CY
-    CZ: CZ
-    DE: DE
-    DG: DG
-    DJ: DJ
-    DK: DK
-    DM: DM
-    DO: DO
-    DZ: DZ
-    EA: EA
-    EC: EC
-    EE: EE
-    EG: EG
-    EH: EH
-    ER: ER
-    ES: ES
-    ET: ET
-    EU: EU
-    FI: FI
-    FJ: FJ
-    FK: FK
-    FM: FM
-    FO: FO
-    FR: FR
-    GA: GA
-    GB: GB
-    GD: GD
-    GE: GE
-    GF: GF
-    GG: GG
-    GH: GH
-    GI: GI
-    GL: GL
-    GM: GM
-    GN: GN
-    GP: GP
-    GQ: GQ
-    GR: GR
-    GS: GS
-    GT: GT
-    GU: GU
-    GW: GW
-    GY: GY
-    HK: HK
-    HM: HM
-    HN: HN
-    HR: HR
+    CO: Kolọmbịa
+    CP: Agwaetiti Clipperton
+    CR: Kọsta Rịka
+    CU: Kụba
+    CV: Cape Verde
+    CW: Kụrasao
+    CX: Agwaetiti Krịsmas
+    CY: Saịprọs
+    CZ: Czechịa
+    DE: Jamịnị
+    DG: Diego Garcia
+    DJ: Jibụtị
+    DK: Denmak
+    DM: Dọmịnịka
+    DO: Repụblịk Dọmịnịkan
+    DZ: Aljịrịa
+    EA: Ceuta na Melilla
+    EC: Ekwuadọ
+    EE: Estonịa
+    EG: Ijipt
+    EH: Sahara Ọdịda Anyanwụ
+    ER: Erịtrea
+    ES: Speịn
+    ET: Etiopịa
+    EU: Ịgbakọ Europe
+    FI: Fịnland
+    FJ: Fịjị
+    FK: Agwaetiti Falkland
+    FM: Maịkronesia
+    FO: Agwaetiti Faroe
+    FR: Fraịns
+    GA: Gabọn
+    GB: Obodo Jikọrọ Eze
+    GD: Grenada
+    GE: Jọjịa
+    GF: Frẹnch Guiana
+    GG: Guernsey
+    GH: Ghana
+    GI: Jịbrọlta
+    GL: Griịnland
+    GM: Gambịa
+    GN: Ginị
+    GP: Guadeloupe
+    GQ: Gịnị Ekweta
+    GR: Griis
+    GS: South Georgia na Agwaetiti South Sandwich
+    GT: Guatemala
+    GU: Guam
+    GW: Gịnị-Bisaụ
+    GY: Guyana
+    HK: Hồng Kồng SAR Chaịna
+    HM: Agwaetiti Heard na McDonald
+    HN: Hondụras
+    HR: Kroeshịa
     HT: Hati
-    HU: HU
-    IC: IC
-    ID: ID
-    IE: IE
-    IL: IL
-    IM: IM
-    IN: IN
-    IO: IO
-    IQ: IQ
-    IR: IR
-    IS: IS
-    IT: IT
-    JE: JE
-    JM: JM
-    JO: JO
-    JP: JP
-    KE: KE
-    KG: KG
-    KH: KH
-    KI: KI
+    HU: Hụngari
+    IC: Agwaetiti Kanarị
+    ID: Indọnesia
+    IE: Aịrland
+    IL: Izrel
+    IM: Isle of Man
+    IN: Indịa
+    IO: Ókèkè Brịtịsh n'Oké Indịa
+    IQ: Ịrak
+    IR: Iran
+    IS: Aịsland
+    IT: Italị
+    JE: Jersey
+    JM: Jamaịka
+    JO: Jọdan
+    JP: Japan
+    KE: Kenyạ
+    KG: Kịgịstan
+    KH: Kambọdịa
+    KI: Kịrịbatị
     KM: Comorosu
-    KN: KN
-    KP: KP
-    KR: KR
-    KW: KW
-    KY: KY
-    KZ: KZ
-    LA: LA
-    LB: LB
-    LC: LC
-    LI: LI
-    LK: LK
-    LR: LR
-    LS: LS
-    LT: LT
-    LU: LU
-    LV: LV
+    KN: Seịnt Kịts na Nevịs
+    KP: Kọrịa Ugwu
+    KR: Kọrịa Ndịda
+    KW: Kuweịt
+    KY: Agwaetiti Cayman
+    KZ: Kazakịstan
+    LA: Laọs
+    LB: Lebano̱n
+    LC: Seịnt Lụsịa
+    LI: Lịchtenstaịn
+    LK: Srị Lanka
+    LR: Laịbịrịa
+    LS: Lesọtọ
+    LT: Lịtụanịa
+    LU: Lụxembọg
+    LV: Latvịa
     LY: Libyia
-    MA: MA
-    MC: MC
-    MD: MD
-    ME: ME
-    MF: MF
-    MG: MG
-    MH: MH
-    MK: MK
-    ML: ML
-    MM: MM
-    MN: MN
-    MO: MO
-    MP: MP
-    MQ: MQ
-    MR: MR
-    MS: MS
-    MT: MT
-    MU: MU
+    MA: Morọkọ
+    MC: Mọnakọ
+    MD: Mọldọva
+    ME: Mọntenegro
+    MF: Seịnt Martin
+    MG: Madagaska
+    MH: Agwaetiti Marshall
+    MK: Nọọt Masedọnịa
+    ML: Malị
+    MM: Myanmar (Bụrma)
+    MN: Mọngolịa
+    MO: Makao SAR Chaịna
+    MP: Agwaetiti Marịana Ugwu
+    MQ: Martinique
+    MR: Mọrịtanịa
+    MS: Montserrat
+    MT: Mọlta
+    MU: Mọrịshọs
     MV: Maldivesa
-    MW: MW
-    MX: MX
-    MY: MY
-    MZ: MZ
-    NA: NA
-    NC: NC
-    NE: NE
-    NF: NF
+    MW: Malawị
+    MX: Mexịko
+    MY: Malaysịa
+    MZ: Mozamịbik
+    NA: Namịbịa
+    NC: New Kaledonịa
+    NE: Nịja
+    NF: Agwaetiti Norfolk
     NG: Nigeria
-    NI: NI
-    NL: NL
-    'NO': 'NO'
-    NP: NP
-    NR: NR
-    NU: NU
-    NZ: NZ
-    OM: OM
-    PA: PA
-    PE: PE
-    PF: PF
-    PG: PG
-    PH: PH
-    PK: PK
-    PL: PL
-    PM: PM
-    PN: PN
-    PR: PR
-    PS: PS
-    PT: PT
-    PW: PW
-    PY: PY
-    QA: QA
-    QO: QO
-    RE: RE
-    RO: RO
-    RS: RS
-    RU: RU
-    RW: RW
-    SA: SA
-    SB: SB
-    SC: SC
-    SD: SD
-    SE: SE
-    SG: SG
-    SH: SH
-    SI: SI
-    SJ: SJ
-    SK: SK
-    SL: SL
-    SM: SM
-    SN: SN
-    SO: SO
-    SR: SR
-    SS: SS
-    ST: ST
-    SV: SV
-    SX: SX
-    SY: SY
-    SZ: SZ
-    TA: TA
-    TC: TC
-    TD: TD
-    TF: TF
-    TG: TG
-    TH: TH
-    TJ: TJ
-    TK: TK
-    TL: TL
-    TM: TM
-    TN: TN
-    TO: TO
-    TR: TR
-    TT: TT
-    TV: TV
-    TW: TW
-    TZ: TZ
-    UA: UA
-    UG: UG
-    UM: UM
-    US: US
-    UY: UY
-    UZ: UZ
-    VA: VA
-    VC: VC
-    VE: VE
-    VG: VG
-    VI: VI
-    VN: VN
-    VU: VU
-    WF: WF
-    WS: WS
-    XK: XK
-    YE: YE
-    YT: YT
-    ZA: ZA
-    ZM: ZM
-    ZW: ZW
+    NI: Nịkaragụa
+    NL: Netherlands
+    'NO': Nọọwe
+    NP: Nepal
+    NR: Naụrụ
+    NU: Niụe
+    NZ: New Zealand
+    OM: Ọman
+    PA: Panama
+    PE: Perụ
+    PF: Frẹnch Polynesia
+    PG: Papụa New Ginị
+    PH: Filipịns
+    PK: Pakistan
+    PL: Poland
+    PM: Seịnt Pierre na Miquelon
+    PN: Agwaetiti Pitcairn
+    PR: Puertọ Rịko
+    PS: Ókèkè Palestine
+    PT: Pọtụgal
+    PW: Palaụ
+    PY: Paragụaị
+    QA: Kata
+    QO: Outlying Oceania
+    RE: Réunion
+    RO: Romanịa
+    RS: Serbịa
+    RU: Rọshịa
+    RW: Rụwanda
+    SA: Saudị Arebịa
+    SB: Agwaetiti Sọlọmọn
+    SC: Seshẹls
+    SD: Sudan
+    SE: Sụwiden
+    SG: Sịngapọ
+    SH: Seịnt Helena
+    SI: Slovenịa
+    SJ: Svalbard na Jan Mayen
+    SK: Slovakịa
+    SL: Sịera Lịọn
+    SM: San Marino
+    SN: Sẹnẹgal
+    SO: Somalịa
+    SR: Sụrịnam
+    SS: Sụdan Ndịda
+    ST: São Tomé na Príncipe
+    SV: Ẹl Salvadọ
+    SX: Sint Maarten
+    SY: Sịrịa
+    SZ: Eswatịnị
+    TA: Tristan da Cunha
+    TC: Agwaetiti Turks na Caicos
+    TD: Chad
+    TF: Ókèkè Ndịda Fraịns
+    TG: Togo
+    TH: Taịland
+    TJ: Tajịkịstan
+    TK: Tokelaụ
+    TL: Tịmọ-Leste
+    TM: Tọkmenistan
+    TN: Tụnịsịa
+    TO: Tọnga
+    TR: Tọkị
+    TT: Trịnịdad na Tobago
+    TV: Tụvalụ
+    TW: Taịwan
+    TZ: Tanzanịa
+    UA: Yukren
+    UG: Ụganda
+    UM: Agwaetiti Dị Iche Iche Obodo Amerịka
+    US: Amerịka
+    UY: Ụrụgụaị
+    UZ: Ụzbekịstan
+    VA: Vatican City
+    VC: Seịnt Vịnsent na Grenadịns
+    VE: Venezụela
+    VG: Agwaetiti Vịrjịn nke Brịtịsh
+    VI: Agwaetiti Vịrjịn nke Amerịka
+    VN: Vịetnam
+    VU: Vanụatụ
+    WF: Wallis na Futuna
+    WS: Samọa
+    XK: Kosovo
+    YE: Yemen
+    YT: Mayọte
+    ZA: Saut Afrịka
+    ZM: Zambịa
+    ZW: Zịmbabwe

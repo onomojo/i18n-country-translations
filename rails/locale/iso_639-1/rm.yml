@@ -1,7 +1,7 @@
 ---
 rm:
   countries:
-    AC: AC
+    AC: Insla d'Ascensiun
     AD: Andorra
     AE: Emirats Arabs Unids
     AF: Afghanistan
@@ -9,7 +9,6 @@ rm:
     AI: Anguilla
     AL: Albania
     AM: Armenia
-    AN: Antillas Ollandaisas
     AO: Angola
     AQ: Antarctica
     AR: Argentinia
@@ -32,7 +31,7 @@ rm:
     BM: Bermudas
     BN: Brunei
     BO: Bolivia
-    BQ: BQ
+    BQ: Caribia Ollandaisa
     BR: Brasila
     BS: Bahamas
     BT: Bhutan
@@ -52,22 +51,22 @@ rm:
     CM: Camerun
     CN: China
     CO: Columbia
-    CP: CP
+    CP: Insla Clipperton
     CR: Costa Rica
     CU: Cuba
     CV: Cap Verd
-    CW: CW
+    CW: Curaçao
     CX: Insla da Christmas
     CY: Cipra
     CZ: Republica Tscheca
     DE: Germania
-    DG: DG
+    DG: Diego Garcia
     DJ: Dschibuti
     DK: Danemarc
     DM: Dominica
     DO: Republica Dominicana
     DZ: Algeria
-    EA: EA
+    EA: Ceuta e Melilla
     EC: Ecuador
     EE: Estonia
     EG: Egipta
@@ -107,7 +106,7 @@ rm:
     HR: Croazia
     HT: Haiti
     HU: Ungaria
-    IC: IC
+    IC: Inslas Canarias
     ID: Indonesia
     IE: Irlanda
     IL: Israel
@@ -219,10 +218,10 @@ rm:
     SS: Sudan dal Sid
     ST: São Tomé e Principe
     SV: El Salvador
-    SX: SX
+    SX: Sint Maarten
     SY: Siria
     SZ: Swaziland
-    TA: TA
+    TA: Tristan da Cunha
     TC: Inslas Turks e Caicos
     TD: Tschad
     TF: Territoris Franzos Meridiunals
@@ -254,7 +253,7 @@ rm:
     VU: Vanuatu
     WF: Wallis e Futuna
     WS: Samoa
-    XK: XK
+    XK: Kosovo
     YE: Jemen
     YT: Mayotte
     ZA: Africa dal Sid

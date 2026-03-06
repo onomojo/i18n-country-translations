@@ -12,7 +12,7 @@ Locales are specified by [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_6
 
 ## Supported Country Codes
 
-Country codes follow the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) standard.
+Country codes follow the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) standard (all 248 officially assigned codes), plus these additional territory codes from [Unicode CLDR](https://cldr.unicode.org/): AC, CP, DG, EA, EU, IC, QO, TA, UM, XK.
 
 ## Installation
 

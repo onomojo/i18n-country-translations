@@ -1,7 +1,7 @@
 ---
 mt:
   countries:
-    AC: AC
+    AC: Gżira Ascension
     AD: Andorra
     AE: Emirati Għarab Maqgħuda
     AF: Afganistan
@@ -9,7 +9,6 @@ mt:
     AI: Angwilla
     AL: Albanija
     AM: Armenja
-    AN: Antilles Olandiżi
     AO: Angola
     AQ: Antartika
     AR: Arġentina
@@ -28,11 +27,11 @@ mt:
     BH: Baħrajn
     BI: Burundi
     BJ: Benin
-    BL: BL
+    BL: Saint Barthélemy
     BM: Bermuda
     BN: Brunej
     BO: Bolivja
-    BQ: BQ
+    BQ: Bonaire, Sint Eustatius u Saba
     BR: Il-Brażil
     BS: Baħamas
     BT: Butan
@@ -52,22 +51,22 @@ mt:
     CM: Kamerun
     CN: Iċ-Ċina
     CO: Kolumbja
-    CP: CP
+    CP: Gżira Clipperton
     CR: Kosta Rika
     CU: Kuba
     CV: Kape Verde
-    CW: CW
+    CW: Curaçao
     CX: Christmas Island
     CY: Ċipru
     CZ: Repubblika Ċeka
     DE: Il-Ġermanja
-    DG: DG
+    DG: Diego Garcia
     DJ: Ġibuti
     DK: Danimarka
     DM: Dominika
     DO: Republikka Domenikana
     DZ: Alġerija
-    EA: EA
+    EA: Ceuta u Melilla
     EC: Ekwador
     EE: Estonja
     EG: Eġittu
@@ -87,7 +86,7 @@ mt:
     GD: Grenada
     GE: Ġorġja
     GF: Gujana Franċiża
-    GG: GG
+    GG: Guernsey
     GH: Gana
     GI: Gibraltar
     GL: Grinlandja
@@ -107,7 +106,7 @@ mt:
     HR: Kroazja
     HT: Ħaiti
     HU: Ungerija
-    IC: IC
+    IC: Gżejjer Kanarji
     ID: Indoneżja
     IE: Irlanda
     IL: Iżrael
@@ -118,7 +117,7 @@ mt:
     IR: Iran
     IS: Islanda
     IT: L-Italja
-    JE: JE
+    JE: Jersey
     JM: Ġamajka
     JO: Ġordan
     JP: Il-Ġappun
@@ -147,8 +146,8 @@ mt:
     MA: Marokk
     MC: Monako
     MD: Maldova
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: Saint Martin
     MG: Madagaskar
     MH: Gżejjer ta’ Marshall
     MK: Maċedonja
@@ -195,10 +194,10 @@ mt:
     PW: Palau
     PY: Paragwaj
     QA: Qatar
-    QO: QO
+    QO: Oċeanja Periferali
     RE: Réunion
     RO: Rumanija
-    RS: RS
+    RS: Serbja
     RU: Ir-Russja
     RW: Rwanda
     SA: Għarabja Sawdita
@@ -216,13 +215,13 @@ mt:
     SN: Senegal
     SO: Somalja
     SR: Surinam
-    SS: SS
+    SS: Sudan t'Isfel
     ST: Sao Tome and Principe
     SV: El Salvador
-    SX: SX
+    SX: Sint Maarten
     SY: Sirja
     SZ: Sważiland
-    TA: TA
+    TA: Tristan da Cunha
     TC: Turks and Caicos Islands
     TD: Ċad
     TF: Territorji Franċiżi ta’ Nofsinhar

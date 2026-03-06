@@ -1,73 +1,72 @@
 ---
 ia:
   countries:
-    AC: AC
-    AD: AD
+    AC: Insula de Ascension
+    AD: Andorra
     AE: Emiratos Arabe Unite
     AF: Afghanistan
     AG: Antigua e Barbuda
-    AI: AI
+    AI: Anguilla
     AL: Albania
     AM: Armenia
-    AN: Antillas nederlandese
     AO: Angola
     AQ: Antarctica
     AR: Argentina
     AS: Samoa american
     AT: Austria
     AU: Australia
-    AW: AW
-    AX: AX
+    AW: Aruba
+    AX: Insulas Aland
     AZ: Azerbaidzhan
     BA: Bosnia e Herzegovina
-    BB: BB
+    BB: Barbados
     BD: Bangladesh
     BE: Belgica
     BF: Burkina Faso
     BG: Bulgaria
-    BH: BH
+    BH: Bahrain
     BI: Burundi
     BJ: Benin
-    BL: BL
-    BM: BM
-    BN: BN
+    BL: Sancte Bartholomeo
+    BM: Bermuda
+    BN: Brunei
     BO: Bolivia
-    BQ: BQ
+    BQ: Paises Basse caribe
     BR: Brasil
     BS: Bahamas
     BT: Bhutan
     BV: Insula de Bouvet
     BW: Botswana
     BY: Bielorussia
-    BZ: BZ
+    BZ: Belize
     CA: Canada
-    CC: CC
-    CD: CD
+    CC: Insulas Cocos (Keeling)
+    CD: Republica Democratic del Congo
     CF: Republica African Central
     CG: Congo
     CH: Suissa
-    CI: CI
+    CI: Costa de Ebore
     CK: Insulas Cook
     CL: Chile
     CM: Camerun
     CN: China
     CO: Colombia
-    CP: CP
-    CR: CR
+    CP: Insula Clipperton
+    CR: Costa Rica
     CU: Cuba
-    CV: CV
-    CW: CW
+    CV: Capo Verde
+    CW: Curacao
     CX: Insula de Natal
     CY: Cypro
     CZ: Republica Tchec
     DE: Germania
-    DG: DG
-    DJ: DJ
+    DG: Diego Garcia
+    DJ: Djibuti
     DK: Danmark
-    DM: DM
+    DM: Dominica
     DO: Republica Dominican
     DZ: Algeria
-    EA: EA
+    EA: Ceuta e Melilla
     EC: Ecuador
     EE: Estonia
     EG: Egypto
@@ -75,51 +74,51 @@ ia:
     ER: Eritrea
     ES: Espania
     ET: Ethiopia
-    EU: EU
+    EU: Union Europee
     FI: Finlandia
-    FJ: FJ
-    FK: FK
+    FJ: Fiji
+    FK: Insulas Falkland
     FM: Micronesia
     FO: Insulas Feroe
     FR: Francia
     GA: Gabon
     GB: Regno Unite
-    GD: GD
+    GD: Grenada
     GE: Georgia
     GF: Guyana francese
-    GG: GG
+    GG: Guernsey
     GH: Ghana
-    GI: GI
+    GI: Gibraltar
     GL: Groenlandia
     GM: Gambia
     GN: Guinea
-    GP: GP
+    GP: Guadeloupe
     GQ: Guinea equatorial
     GR: Grecia
-    GS: GS
-    GT: GT
-    GU: GU
+    GS: Georgia del Sud e Insulas Sandwich del Sud
+    GT: Guatemala
+    GU: Guam
     GW: Guinea-Bissau
-    GY: GY
-    HK: HK
-    HM: HM
+    GY: Guyana
+    HK: Hong Kong
+    HM: Insulas Heard e McDonald
     HN: Honduras
     HR: Croatia
     HT: Haiti
     HU: Hungaria
-    IC: IC
+    IC: Insulas Canari
     ID: Indonesia
     IE: Irlanda
     IL: Israel
-    IM: IM
+    IM: Insula de Man
     IN: India
     IO: Territorio oceanic britanno-indian
     IQ: Irak
     IR: Iran
     IS: Islanda
     IT: Italia
-    JE: JE
-    JM: JM
+    JE: Jersey
+    JM: Jamaica
     JO: Jordania
     JP: Japon
     KE: Kenya
@@ -130,10 +129,10 @@ ia:
     KN: Sancte Christophoro e Nevis
     KP: Corea del Nord
     KR: Corea del Sud
-    KW: KW
+    KW: Kuwait
     KY: Insulas de Caiman
     KZ: Kazakhstan
-    LA: LA
+    LA: Laos
     LB: Libano
     LC: Sancte Lucia
     LI: Liechtenstein
@@ -141,28 +140,28 @@ ia:
     LR: Liberia
     LS: Lesotho
     LT: Lituania
-    LU: LU
+    LU: Luxemburg
     LV: Lettonia
     LY: Libya
     MA: Marocco
-    MC: MC
+    MC: Monaco
     MD: Moldavia
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: Sancte Martin
     MG: Madagascar
     MH: Insulas Marshall
     MK: Macedonia
     ML: Mali
     MM: Birmania/Myanmar
     MN: Mongolia
-    MO: MO
+    MO: Macao
     MP: Insulas Marianna del Nord
-    MQ: MQ
+    MQ: Martinica
     MR: Mauritania
-    MS: MS
-    MT: MT
-    MU: MU
-    MV: MV
+    MS: Montserrat
+    MT: Malta
+    MU: Mauritio
+    MV: Maldivas
     MW: Malawi
     MX: Mexico
     MY: Malaysia
@@ -176,40 +175,40 @@ ia:
     NL: Nederlandia
     'NO': Norvegia
     NP: Nepal
-    NR: NR
-    NU: NU
+    NR: Nauru
+    NU: Niue
     NZ: Nove Zelanda
     OM: Oman
-    PA: PA
+    PA: Panama
     PE: Peru
     PF: Polynesia francese
     PG: Papua Nove Guinea
     PH: Philippinas
     PK: Pakistan
     PL: Polonia
-    PM: PM
-    PN: PN
-    PR: PR
-    PS: PS
+    PM: Sancte Petro e Miquelon
+    PN: Insulas Pitcairn
+    PR: Porto Rico
+    PS: Palestina
     PT: Portugal
-    PW: PW
+    PW: Palau
     PY: Paraguay
-    QA: QA
-    QO: QO
-    RE: RE
+    QA: Qatar
+    QO: Oceania remote
+    RE: Reunion
     RO: Romania
-    RS: RS
-    RU: RU
+    RS: Serbia
+    RU: Russia
     RW: Ruanda
     SA: Arabia Saudita
     SB: Insulas Solomon
     SC: Seychelles
     SD: Sudan
     SE: Svedia
-    SG: SG
-    SH: SH
+    SG: Singapur
+    SH: Sancte Helena
     SI: Slovenia
-    SJ: SJ
+    SJ: Svalbard e Jan Mayen
     SK: Slovachia
     SL: Sierra Leone
     SM: San Marino
@@ -217,12 +216,12 @@ ia:
     SO: Somalia
     SR: Suriname
     SS: Sudan del Sud
-    ST: ST
-    SV: SV
-    SX: SX
+    ST: Sao Tome e Principe
+    SV: El Salvador
+    SX: Sint Maarten
     SY: Syria
     SZ: Swazilandia
-    TA: TA
+    TA: Tristan da Cunha
     TC: Insulas Turcos e Caicos
     TD: Tchad
     TF: Territorios meridional francese
@@ -241,22 +240,22 @@ ia:
     TZ: Tanzania
     UA: Ukraina
     UG: Uganda
-    UM: UM
+    UM: Insulas Minor Remote del Statos Unite
     US: Statos Unite
     UY: Uruguay
     UZ: Uzbekistan
-    VA: VA
+    VA: Citate del Vaticano
     VC: Sancte Vincente e le Grenadinas
     VE: Venezuela
-    VG: VG
-    VI: VI
-    VN: VN
+    VG: Insulas Virgine britannic
+    VI: Insulas Virgine american
+    VN: Vietnam
     VU: Vanuatu
-    WF: WF
+    WF: Wallis e Futuna
     WS: Samoa
-    XK: XK
+    XK: Kosovo
     YE: Yemen
-    YT: YT
+    YT: Mayotte
     ZA: Africa del Sud
     ZM: Zambia
     ZW: Zimbabwe

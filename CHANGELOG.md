@@ -1,3 +1,12 @@
+## 2.1.0
+
+- Fill all missing translations across 33 incomplete locales (ig, as, ps, ia, bo, and 28 others)
+- Fix test bug where untranslated entries (value == country code) passed silently due to String/Symbol comparison
+- Fix ISO standard reference in README: ISO 3166-2 → ISO 3166-1 alpha-2
+- Move rof.yml from iso_639-1/ to unicode_supported/ (rof is ISO 639-3, not ISO 639-1)
+- Remove deprecated AN (Netherlands Antilles) country code from all locales per ISO 3166-1
+- Update outdated English country names: Swaziland → Eswatini, Turkey → Turkiye, Czech Republic → Czechia
+
 ## 2.0.1
 
 - Add zh-CN locale for compatibility with rails-i18n and apps using `I18n.locale = :'zh-CN'`

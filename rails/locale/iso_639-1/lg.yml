@@ -1,7 +1,7 @@
 ---
 lg:
   countries:
-    AC: AC
+    AC: Ekirwa ky'Okulinnya
     AD: Andora
     AE: Emireeti
     AF: Afaganisitani
@@ -9,15 +9,14 @@ lg:
     AI: Angwila
     AL: Alibaniya
     AM: Arameniya
-    AN: Bizinga bya Antile eby’abaHolandi
     AO: Angola
-    AQ: AQ
+    AQ: Antarikitika
     AR: Arigentina
     AS: Samowa omumerika
     AT: Awusituriya
     AU: Awusitureliya
     AW: Aruba
-    AX: AX
+    AX: Bizinga bya Alandi
     AZ: Azerebayijaani
     BA: Boziniya Hezegovina
     BB: Barabadosi
@@ -28,20 +27,20 @@ lg:
     BH: Baareeni
     BI: Burundi
     BJ: Benini
-    BL: BL
+    BL: Senti Batelemyi
     BM: Beremuda
     BN: Burunayi
     BO: Boliviya
-    BQ: BQ
+    BQ: Karibiyani eya Holandi
     BR: Buraziiri
     BS: Bahamasi
     BT: Butaani
-    BV: BV
+    BV: Kizinga kya Buve
     BW: Botiswana
     BY: Belarusi
     BZ: Belize
     CA: Kanada
-    CC: CC
+    CC: Bizinga bya Kokosi
     CD: Kongo - Zayire
     CF: Lipubulika eya Senturafiriki
     CG: Kongo
@@ -52,42 +51,42 @@ lg:
     CM: Kameruuni
     CN: Cayina
     CO: Kolombya
-    CP: CP
+    CP: Kizinga kya Kulippatoni
     CR: Kosita Rika
     CU: Cuba
     CV: Bizinga by’e Kepu Veredi
-    CW: CW
-    CX: CX
+    CW: Kurasawo
+    CX: Kizinga kya Kurisimasi
     CY: Sipuriya
     CZ: Lipubulika ya Ceeka
     DE: Budaaki
-    DG: DG
+    DG: Diyego Garisiya
     DJ: Jjibuti
     DK: Denimaaka
     DM: Dominika
     DO: Lipubulika ya Dominika
     DZ: Aligerya
-    EA: EA
+    EA: Seyuta ne Melila
     EC: Ekwado
     EE: Esitoniya
     EG: Misiri
-    EH: EH
+    EH: Sahaara ey'obugwanjuba
     ER: Eritureya
     ES: Sipeyini
     ET: Esyopya
-    EU: EU
+    EU: Bungereza bwa Yuropu
     FI: Finilandi
     FJ: Fiji
     FK: Bizinga by’eFalikalandi
     FM: Mikuronezya
-    FO: FO
+    FO: Bizinga bya Falowe
     FR: Bufalansa
     GA: Gaboni
     GB: Bungereza
     GD: Gurenada
     GE: Gyogya
     GF: Guyana enfalansa
-    GG: GG
+    GG: Guenzi
     GH: Gana
     GI: Giburalita
     GL: Gurenelandi
@@ -96,29 +95,29 @@ lg:
     GP: Gwadalupe
     GQ: Gayana ey’oku ekweta
     GR: Bugereeki/Buyonaani
-    GS: GS
+    GS: Jwojiya ey'omumaserengeta ne Bizinga bya Sanduwici eby'omumaserengeta
     GT: Gwatemala
     GU: Gwamu
     GW: Gini-Bisawu
     GY: Gayana
-    HK: HK
-    HM: HM
+    HK: Hongi Kongi
+    HM: Kizinga kya Haadi ne Bizinga bya Makidonaldi
     HN: Hundurasi
     HR: Kurowesya
     HT: Hayiti
     HU: Hangare
-    IC: IC
+    IC: Bizinga bya Kanale
     ID: Yindonezya
     IE: Ayalandi
     IL: Yisirayeri
-    IM: IM
+    IM: Kizinga kya Mani
     IN: Buyindi
     IO: Bizinga by’eCago
     IQ: Yiraaka
     IR: Yiraani
     IS: Ayisirandi
     IT: Yitale
-    JE: JE
+    JE: Jeezi
     JM: Jamayika
     JO: Yorodani
     JP: Japani
@@ -147,15 +146,15 @@ lg:
     MA: Moroko
     MC: Monako
     MD: Molodova
-    ME: ME
-    MF: MF
+    ME: Monteneguro
+    MF: Senti Maatini
     MG: Madagasika
     MH: Bizinga bya Mariso
     MK: Masedoniya
     ML: Mali
     MM: Myanima
     MN: Mongoliya
-    MO: MO
+    MO: Makawu
     MP: Bizinga bya Mariyana eby’omumambuka
     MQ: Maritiniiki
     MR: Mawulitenya
@@ -195,10 +194,10 @@ lg:
     PW: Palawu
     PY: Paragwayi
     QA: Kataa
-    QO: QO
+    QO: Osyaniya ey'ebweru
     RE: Leyunyoni
     RO: Lomaniya
-    RS: RS
+    RS: Seribiya
     RU: Lasa
     RW: Rwanda
     SA: Sawudarebya - Buwarabu
@@ -209,23 +208,23 @@ lg:
     SG: Singapowa
     SH: Senti Herena
     SI: Sirovenya
-    SJ: SJ
+    SJ: Suvalibadi ne Yani Mayeni
     SK: Sirovakya
     SL: Siyeralewone
     SM: Sanimarino
     SN: Senegaalo
     SO: Somaliya
     SR: Surinaamu
-    SS: SS
+    SS: Sudaani ey'omumaserengeta
     ST: Sanitome ne Purincipe
     SV: El salivado
-    SX: SX
+    SX: Senti Maateni
     SY: Siriya
     SZ: Swazirandi
-    TA: TA
+    TA: Turisitani da Kuniya
     TC: Bizinga by’eTaaka ne Kayikosi
     TD: Caadi
-    TF: TF
+    TF: Ensi ey'omumaserengeta eya Bufalansa
     TG: Togo
     TH: Tayirandi
     TJ: Tajikisitaani
@@ -241,7 +240,7 @@ lg:
     TZ: Tanzaniya
     UA: Yukurayine
     UG: Yuganda
-    UM: UM
+    UM: Bizinga by'ebweru ebya Amerika
     US: Amerika
     UY: Wurugwayi
     UZ: Wuzibekisitaani
@@ -254,7 +253,7 @@ lg:
     VU: Vanawuwatu
     WF: Walisi ne Futuna
     WS: Samowa
-    XK: XK
+    XK: Kosovo
     YE: Yemeni
     YT: Mayotte
     ZA: Sawusafirika

@@ -1,7 +1,7 @@
 ---
 sn:
   countries:
-    AC: AC
+    AC: Chitsuwa cheAscension
     AD: Andora
     AE: United Arab Emirates
     AF: Afuganistani
@@ -9,15 +9,14 @@ sn:
     AI: Anguila
     AL: Albania
     AM: Armenia
-    AN: Netherlands Antilles
     AO: Angola
-    AQ: AQ
+    AQ: Antarctica
     AR: Ajentina
     AS: Samoa ye Amerika
     AT: Austria
     AU: Australia
     AW: Arubha
-    AX: AX
+    AX: Zvitsuwa zveÅland
     AZ: Azabajani
     BA: Boznia ne Herzegovina
     BB: Barbados
@@ -28,20 +27,20 @@ sn:
     BH: Bahareni
     BI: Burundi
     BJ: Benini
-    BL: BL
+    BL: Saint Barthélemy
     BM: Bermuda
     BN: Burunei
     BO: Bolivia
-    BQ: BQ
+    BQ: Karibbiani yeNetherlands
     BR: Brazil
     BS: Bahama
     BT: Bhutani
-    BV: BV
+    BV: Chitsuwa cheBouvet
     BW: Botswana
     BY: Belarusi
     BZ: Belize
     CA: Kanada
-    CC: CC
+    CC: Zvitsuwa zveCocos
     CD: Democratic Republic of the Congo
     CF: Central African Republic
     CG: Kongo
@@ -52,42 +51,42 @@ sn:
     CM: Kameruni
     CN: China
     CO: Kolombia
-    CP: CP
+    CP: Chitsuwa cheClipperton
     CR: Kostarika
     CU: Cuba
     CV: Zvitsuwa zveCape Verde
-    CW: CW
-    CX: CX
+    CW: Curaçao
+    CX: Chitsuwa cheKirisimasi
     CY: Cyprus
     CZ: Czech Republic
     DE: Germany
-    DG: DG
+    DG: Diego Garcia
     DJ: Djibouti
     DK: Denmark
     DM: Dominica
     DO: Dominican Republic
     DZ: Aljeria
-    EA: EA
+    EA: Ceuta neMelilla
     EC: Ecuador
     EE: Estonia
     EG: Egypt
-    EH: EH
+    EH: Sahara yeKumavirira
     ER: Eritrea
     ES: Spain
     ET: Etiopia
-    EU: EU
+    EU: Sangano reEuropean
     FI: Finland
     FJ: Fiji
     FK: Zvitsuwa zveFalklands
     FM: Micronesia
-    FO: FO
+    FO: Zvitsuwa zveFaroe
     FR: France
     GA: Gabon
     GB: United Kingdom
     GD: Grenada
     GE: Georgia
     GF: French Guiana
-    GG: GG
+    GG: Guernsey
     GH: Ghana
     GI: Gibraltar
     GL: Greenland
@@ -96,29 +95,29 @@ sn:
     GP: Guadeloupe
     GQ: Equatorial Guinea
     GR: Greece
-    GS: GS
+    GS: South Georgia neZvitsuwa zveSouth Sandwich
     GT: Guatemala
     GU: Guam
     GW: Guinea-Bissau
     GY: Guyana
-    HK: HK
-    HM: HM
+    HK: Hong Kong
+    HM: Chitsuwa cheHeard neZvitsuwa zveMcDonald
     HN: Honduras
     HR: Korasia
     HT: Haiti
     HU: Hungary
-    IC: IC
+    IC: Zvitsuwa zveCanary
     ID: Indonesia
     IE: Ireland
     IL: Izuraeri
-    IM: IM
+    IM: Chitsuwa cheIsle of Man
     IN: India
     IO: British Indian Ocean Territory
     IQ: Iraq
     IR: Iran
     IS: Iceland
     IT: Italy
-    JE: JE
+    JE: Jersey
     JM: Jamaica
     JO: Jordan
     JP: Japan
@@ -147,15 +146,15 @@ sn:
     MA: Morocco
     MC: Monaco
     MD: Moldova
-    ME: ME
-    MF: MF
+    ME: Montenegro
+    MF: Saint Martin
     MG: Madagascar
     MH: Zvitsuwa zveMarshall
     MK: Macedonia
     ML: Mali
     MM: Myanmar
     MN: Mongolia
-    MO: MO
+    MO: Macau
     MP: Zvitsuwa zvekumaodzanyemba eMariana
     MQ: Martinique
     MR: Mauritania
@@ -190,15 +189,15 @@ sn:
     PM: Saint Pierre and Miquelon
     PN: Pitcairn
     PR: Puerto Rico
-    PS: PS
+    PS: Palestina
     PT: Portugal
     PW: Palau
     PY: Paraguay
     QA: Qatar
-    QO: QO
+    QO: Oceania yeKure
     RE: Réunion
     RO: Romania
-    RS: RS
+    RS: Serbia
     RU: Russia
     RW: Rwanda
     SA: Saudi Arabia
@@ -209,23 +208,23 @@ sn:
     SG: Singapore
     SH: Saint Helena
     SI: Slovenia
-    SJ: SJ
+    SJ: Svalbard neJan Mayen
     SK: Slovakia
     SL: Sierra Leone
     SM: San Marino
     SN: Senegal
     SO: Somalia
     SR: Suriname
-    SS: SS
+    SS: South Sudan
     ST: São Tomé and Príncipe
     SV: El Salvador
-    SX: SX
+    SX: Sint Maarten
     SY: Syria
     SZ: Swaziland
-    TA: TA
+    TA: Tristan da Cunha
     TC: Zvitsuwa zveTurk neCaico
     TD: Chadi
-    TF: TF
+    TF: Nharaunda dzekumaodzanyemba dzeFrance
     TG: Togo
     TH: Thailand
     TJ: Tajikistan
@@ -241,7 +240,7 @@ sn:
     TZ: Tanzania
     UA: Ukraine
     UG: Uganda
-    UM: UM
+    UM: Zvitsuwa Zvidiki zveUnited States
     US: Amerika
     UY: Uruguay
     UZ: Uzbekistan
@@ -254,7 +253,7 @@ sn:
     VU: Vanuatu
     WF: Wallis and Futuna
     WS: Samoa
-    XK: XK
+    XK: Kosovo
     YE: Yemen
     YT: Mayotte
     ZA: South Africa
