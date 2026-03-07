@@ -1,18 +1,15 @@
 # I18n Country Translations
 
+[![Gem Version](https://badge.fury.io/rb/i18n-country-translations.svg)](https://rubygems.org/gems/i18n-country-translations)
 [![CI](https://github.com/onomojo/i18n-country-translations/actions/workflows/ci.yml/badge.svg)](https://github.com/onomojo/i18n-country-translations/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Country name translations for Rails and the i18n gem. If you're doing anything with country names and translations, there's no need to reinvent the wheel — just use this gem and skip the hassle of managing translations for each locale yourself.
 
-**Compatibility:** Ruby 3.1+ / Rails 7.2+
+## Requirements
 
-## Supported Locales
-
-Locales are specified by [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) alpha-2 codes, with additional 3-character locale codes supported by [Unicode CLDR](https://cldr.unicode.org/).
-
-## Supported Country Codes
-
-Country codes follow the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) standard (all 248 officially assigned codes), plus these additional territory codes from [Unicode CLDR](https://cldr.unicode.org/): AC, CP, DG, EA, EU, IC, QO, TA, UM, XK.
+- Ruby >= 3.1
+- Rails >= 7.2 (or `railties` >= 7.2)
 
 ## Installation
 
@@ -22,11 +19,21 @@ Add to your Gemfile:
 gem 'i18n-country-translations'
 ```
 
+Translation data is provided by the [`i18n-country-translations-data`](https://github.com/onomojo/i18n-country-translations-data) gem, which is installed automatically as a dependency.
+
 ## Usage
 
 ```ruby
 I18n.t(:US, scope: :countries)
 # => "United States"
+
+I18n.locale = :de
+I18n.t(:US, scope: :countries)
+# => "Vereinigte Staaten"
+
+I18n.locale = :ja
+I18n.t(:JP, scope: :countries)
+# => "日本"
 ```
 
 Or in Rails views:
@@ -35,17 +42,34 @@ Or in Rails views:
 t(:US, scope: :countries)
 ```
 
+## Supported Locales
+
+**168 locales** sourced from [Unicode CLDR](https://cldr.unicode.org/), including all [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) languages plus additional CLDR-supported locales.
+
+## Supported Country Codes
+
+**257 territory codes** following [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) (all 248 officially assigned codes), plus these additional territory codes from Unicode CLDR: AC, CP, DG, EA, EU, IC, QO, TA, UM, XK.
+
+## How It Works
+
+This gem uses a [Railtie](https://api.rubyonrails.org/classes/Rails/Railtie.html) to automatically load translations after Rails initializes. Translations are loaded from the [`i18n-country-translations-data`](https://github.com/onomojo/i18n-country-translations-data) gem via `I18n.backend.store_translations`, scoped under `countries:`.
+
+If your app sets `config.i18n.available_locales`, only the matching locales will be loaded.
+
 ## Contributing
 
-Most locale translations already exist, but if you find an error or something is missing, please submit a pull request.
+Translation data lives in the [`i18n-country-translations-data`](https://github.com/onomojo/i18n-country-translations-data) repo. To add or fix translations, submit a pull request there.
 
-Most of the locales were generated using this rake task:
+### Running tests
 
-```sh
-IMPORT_LOCALE=en rake import:country_translation
+```bash
+bundle install
+bundle exec rspec
 ```
 
-It generates a YAML file containing country translations for the specified locale. Note that some translations may still be missing.
+## Also Available for JavaScript
+
+- [`i18n-country-translations-js`](https://www.npmjs.com/package/i18n-country-translations-js) — The same translations for JavaScript/TypeScript projects
 
 ## Related
 
