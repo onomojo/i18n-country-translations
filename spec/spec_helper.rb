@@ -1,19 +1,17 @@
+# frozen_string_literal: true
 
 require "simplecov"
-require "i18n_country_translations"
-require 'rspec/core'
-require 'i18n-spec'
+require "rspec/core"
+require "i18n-spec"
 require "rails"
 require "rails/railtie"
-Dir[File.join(I18nCountryTranslations.root, "spec/support/**/*.rb")].sort.each {|f| require f}
-
-require 'webmock/rspec'
-WebMock.disable_net_connect!(allow_localhost: true)
+require "yaml"
+require "i18n_country_translations_data"
+require "i18n_country_translations"
 
 RSpec.configure do |config|
   config.mock_with :rspec
   config.fail_fast = true
-  config.include ImportHelper
 end
 
 module I18nCountryTranslationsTest

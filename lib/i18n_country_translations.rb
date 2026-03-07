@@ -1,8 +1,6 @@
-require 'i18n_country_translations/locale_files_pattern_generator'
-require 'i18n_country_translations/railtie'
+# frozen_string_literal: true
+
+require "i18n_country_translations/railtie" if defined?(Rails::Railtie)
 
 module I18nCountryTranslations
-  def self.root
-    File.expand_path('../..', __FILE__)
-  end
 end
