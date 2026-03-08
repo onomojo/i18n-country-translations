@@ -10,8 +10,8 @@ end
 
 data_dir = I18nCountryTranslationsData.data_dir
 
-Dir.glob(File.join(data_dir, "*.yml")) do |locale_file|
-  locale = File.basename(locale_file, ".yml")
+Dir.glob(File.join(data_dir, "*.json")) do |locale_file|
+  locale = File.basename(locale_file, ".json")
 
   describe "#{locale} translations" do
     context "file structure" do

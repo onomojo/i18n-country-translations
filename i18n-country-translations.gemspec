@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'i18n', '>= 0.9.3', '< 3'
   s.add_dependency 'railties', '>= 7.2', '< 9'
-  s.add_dependency 'i18n-country-translations-data', '~> 1.0'
+  s.add_dependency 'i18n-country-translations-data', '~> 1.1'
 
   s.add_development_dependency 'rails', '>= 7.2', '< 9'
   s.add_development_dependency 'rspec-rails', '~> 8.0'

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require "rails/railtie"
-require "yaml"
+require "json"
 require "i18n_country_translations_data"
 
 module I18nCountryTranslations
@@ -10,11 +10,11 @@ module I18nCountryTranslations
       data_dir = I18nCountryTranslationsData.data_dir
       locales = Rails.application.config.i18n.available_locales
 
-      Dir[File.join(data_dir, "*.yml")].each do |file|
-        locale = File.basename(file, ".yml").to_sym
+      Dir[File.join(data_dir, "*.json")].each do |file|
+        locale = File.basename(file, ".json").to_sym
         next if locales.present? && !locales.include?(locale)
 
-        translations = YAML.safe_load(File.read(file))
+        translations = JSON.parse(File.read(file))
         I18n.backend.store_translations(locale, countries: translations)
       end
     end
