@@ -1,3 +1,7 @@
+## 2.3.1
+
+- Fix `I18n.t(:XX, scope: :countries)` returning "translation missing" when `config.i18n.available_locales` is set as an Array of Strings (issue #89). The locale filter in `Railtie.load_translations` now normalizes to symbols before comparison.
+
 ## 2.1.0
 
 - Fill all missing translations across 33 incomplete locales (ig, as, ps, ia, bo, and 28 others)
