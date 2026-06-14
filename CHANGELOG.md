@@ -1,3 +1,7 @@
+## 2.3.2
+
+- Fix country translations disappearing in development after editing any file in `config/locales/` (issue #91). Editing a locale file triggers `I18n.reload!`, which clears the in-memory backend and rebuilds it only from `I18n.load_path`; translations injected via `store_translations` were wiped until the next server restart. They are now re-loaded after every reload via the reloader's `to_prepare` hook.
+
 ## 2.3.1
 
 - Fix `I18n.t(:XX, scope: :countries)` returning "translation missing" when `config.i18n.available_locales` is set as an Array of Strings (issue #89). The locale filter in `Railtie.load_translations` now normalizes to symbols before comparison.
