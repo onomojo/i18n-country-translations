@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    i18n-country-translations (2.3.1)
+    i18n-country-translations (2.3.2)
       i18n (>= 0.9.3, < 3)
       i18n-country-translations-data (~> 1.1)
       railties (>= 7.2, < 9)
